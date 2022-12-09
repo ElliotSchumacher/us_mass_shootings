@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GEOG 458 Final Project</title>
+  <script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+  <link rel="stylesheet" href="index.css">
+  <script src="index.js"></script>
+  <script>
+    function swapViews() {
+        document.getElementById("info").classList.toggle("hidden");
+        document.getElementById("chart").classList.toggle("hidden");
+        document.getElementById("map").classList.toggle("shrink")
+    }
+  </script>
+</head>
+
+<body>
+  <h1>Mass Shooting in the United States</h1>
+  <main>
+    <div id="info" class="panel hidden">
+
+    </div>
+    <div id="map" class="panel" onclick="swapViews();">
+
+    </div>
+    <!-- Sparkchart -->
+    <div id="chart" class="panel hidden">
+      
+    </div>
+  </main>
+</body>
+</html>

@@ -1,0 +1,50 @@
+body, main {
+  background-color: #343A3F;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 33% 67%;
+  grid-template-rows: 67% 33%;
+}
+
+.hidden {
+  display: none;
+}
+
+.panel {
+  background-color: #24282b;
+}
+
+#info {
+  background-color: pink;
+  grid-column: 1 / 1;
+  grid-row: 1 / 1;
+}
+
+#map {
+  /* width: 100%;
+  height: 100%; */
+  background-color: blue;
+  grid-column: 1 / 3;
+  grid-row: 1 / 3;
+}
+
+#map.shrink {
+  /* width: 65%;
+  height: 80%; */
+  /* float: right; */
+  grid-column: 2 / 2;
+  grid-row: 1 / 1;
+}
+
+#chart {
+  background-color: red;
+  width: 100vw;
+  /* height: 150px; */
+  grid-column: 1 / 2;
+  grid-row: 2 / 2;
+}
