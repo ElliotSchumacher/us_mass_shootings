@@ -9,22 +9,17 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
   <link rel="stylesheet" href="index.css">
   <script src="index.js"></script>
-  <script>
-    function swapViews() {
-        document.getElementById("info").classList.toggle("hidden");
-        document.getElementById("chart").classList.toggle("hidden");
-        document.getElementById("map").classList.toggle("shrink")
-    }
-  </script>
 </head>
 
 <body>
-  <h1>Mass Shooting in the United States</h1>
+  <header>
+    <h1>Mass Shooting in the United States</h1>
+  </header>
   <main>
     <div id="info" class="panel hidden">
 
     </div>
-    <div id="map" class="panel" onclick="swapViews();">
+    <div id="map" class="panel">
 
     </div>
     <!-- Sparkchart -->
