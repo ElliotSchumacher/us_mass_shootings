@@ -1,13 +1,34 @@
 "use strict"
 
-window.addEventListener("load", drawMap);
+window.addEventListener("load", init);
 
-function drawMap() {
-  Promise.all([d3.json("./data/usState.geojson"), 
+let inMapView;
+let stateData, stateList, shootingData, populationData;
+
+async function init() {
+  inMapView = true;
+  [stateData, stateList, shootingData, populationData] = await Promise.all([d3.json("./data/usState.geojson"), 
     d3.csv("./data/mass_shootings_shrunk.csv"),
     d3.csv("./data/population.csv")])
     .then(processData)
     .then(createMap)
+    .catch(console.error)
+  
+    await createMap([stateData, stateList, shootingData, populationData]);
+}
+
+function showDetails(event) {
+  // console.log(event);
+  // Swap to detail view if not aready there
+  if (inMapView) {
+    swapViews();
+    inMapView = !inMapView;
+  }
+  let state = event.properties.stateName;
+  console.log(state);
+  // Update info pane
+  let stateLabel = document.querySelector("#info h2");
+  stateLabel.innerHTML = event.properties.name;
 }
 
 /**
@@ -42,21 +63,22 @@ function getMapHeight() {
 function processData([stateData, shootingData, populationData]) {
   // Process the stateData by making state names lowercase
   for (let state of stateData.features) {
-    state.name = state.properties.name.toLowerCase();
+    state.properties.stateName = state.properties.name.toLowerCase();
   }
 
   // Process the populationData by making state names lowercase
   for (let state of populationData) {
-    state.NAME = state.NAME.toLowerCase();
+    state.stateName = state.NAME.toLowerCase();
   }
-  let mappedPopulationData = populationData.map((item) => ({[item.NAME]: item}));
+  let mappedPopulationData = populationData.map((item) => ({[item.stateName]: item}));
   let processedPopulationData = Object.assign({}, ...mappedPopulationData);
+
   // Process the shootingData by making state names lowercase and grouping data by year
   let shootingByYear = {};
   for (let shooting of shootingData) {
-    shooting.State = shooting.State.toLowerCase();
+    shooting.stateName = shooting.State.toLowerCase();
     let year = shooting["Incident Date"].split("-")[2];
-    let state = shooting.State;
+    let state = shooting.stateName;
     if (!shootingByYear[year]) {
       shootingByYear[year] = {};
     }
@@ -67,7 +89,7 @@ function processData([stateData, shootingData, populationData]) {
   }
 
   // Create list of states
-  let stateList = stateData.features.map((d) => { return d.properties.name.toLowerCase() })
+  let stateList = stateData.features.map((d) => { return d.properties.stateName.toLowerCase() })
   // console.log("stateList", stateList);
   // console.log("shootingByYear", shootingByYear);
   return [stateData, stateList, shootingByYear, processedPopulationData];
@@ -104,12 +126,12 @@ function createMap([stateData, stateList, shootingData, populationData]) {
     .append("path")
       .attr("d", path)
       .style("fill", function (d) {
-        let state = d.name;
+        let state = d.properties.stateName;
         let shootingRate = getShootingRate("21", state, shootingData, populationData);
         return colorScale(shootingRate);
       })
       .style("stroke", "#000")
-      .on("click", swapViews)
+      .on("click", showDetails)
 }
 
 function getShootingRate(year, state, shootingData, populationData) {
