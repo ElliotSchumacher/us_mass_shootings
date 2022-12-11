@@ -1,0 +1,2785 @@
+Incident Date,State,# Killed,# Injured
+31-Dec-21,Maryland,0,4
+31-Dec-21,Mississippi,4,3
+31-Dec-21,California,0,6
+30-Dec-21,Pennsylvania,0,7
+30-Dec-21,Missouri,3,1
+27-Dec-21,Colorado,6,2
+27-Dec-21,Ohio,1,3
+27-Dec-21,Alabama,1,3
+26-Dec-21,Virginia,1,4
+26-Dec-21,Texas,3,1
+26-Dec-21,New York,0,4
+26-Dec-21,Mississippi,1,6
+26-Dec-21,Pennsylvania,0,4
+25-Dec-21,Louisiana,0,4
+24-Dec-21,Georgia,1,3
+24-Dec-21,Pennsylvania,0,6
+24-Dec-21,New York,0,4
+19-Dec-21,Illinois,1,3
+17-Dec-21,Maryland,1,3
+17-Dec-21,Maryland,1,4
+17-Dec-21,Virginia,0,4
+13-Dec-21,California,0,4
+13-Dec-21,Pennsylvania,0,4
+13-Dec-21,North Carolina,2,4
+12-Dec-21,Mississippi,0,6
+12-Dec-21,Florida,0,5
+12-Dec-21,Texas,1,13
+12-Dec-21,Virginia,0,4
+11-Dec-21,Illinois,1,3
+10-Dec-21,Michigan,1,3
+10-Dec-21,Florida,0,5
+10-Dec-21,North Carolina,0,5
+9-Dec-21,Maryland,0,4
+9-Dec-21,Wisconsin,1,5
+6-Dec-21,Pennsylvania,0,4
+5-Dec-21,Michigan,2,2
+5-Dec-21,Texas,1,3
+3-Dec-21,Tennessee,2,2
+2-Dec-21,North Carolina,3,3
+30-Nov-21,Michigan,4,7
+30-Nov-21,Georgia,4,2
+28-Nov-21,Pennsylvania,0,4
+28-Nov-21,Maryland,0,7
+28-Nov-21,Illinois,1,4
+28-Nov-21,California,5,0
+28-Nov-21,Colorado,0,5
+27-Nov-21,New Jersey,1,3
+26-Nov-21,Tennessee,3,4
+25-Nov-21,Texas,2,2
+25-Nov-21,South Carolina,0,4
+23-Nov-21,Florida,0,4
+23-Nov-21,Texas,1,3
+22-Nov-21,North Carolina,2,2
+21-Nov-21,New Jersey,0,5
+21-Nov-21,Louisiana,1,4
+20-Nov-21,California,2,2
+20-Nov-21,Illinois,0,4
+18-Nov-21,Maryland,1,3
+17-Nov-21,Illinois,1,3
+17-Nov-21,New York,0,4
+17-Nov-21,New York,1,3
+17-Nov-21,Illinois,0,4
+15-Nov-21,New York,0,4
+15-Nov-21,Colorado,0,6
+14-Nov-21,Pennsylvania,0,6
+14-Nov-21,Missouri,1,5
+14-Nov-21,Oregon,2,2
+14-Nov-21,Arizona,4,1
+14-Nov-21,Alabama,1,5
+13-Nov-21,North Carolina,0,4
+13-Nov-21,Louisiana,0,4
+12-Nov-21,Virginia,2,2
+12-Nov-21,Alabama,2,2
+9-Nov-21,New York,0,4
+9-Nov-21,Louisiana,1,4
+9-Nov-21,South Dakota,3,2
+8-Nov-21,Texas,3,1
+8-Nov-21,Pennsylvania,0,4
+7-Nov-21,Wisconsin,1,3
+6-Nov-21,California,2,2
+6-Nov-21,Texas,0,6
+6-Nov-21,California,0,4
+5-Nov-21,California,1,3
+3-Nov-21,Iowa,0,4
+3-Nov-21,Virginia,3,2
+2-Nov-21,Alabama,0,4
+1-Nov-21,Florida,0,4
+1-Nov-21,Texas,0,4
+31-Oct-21,Kentucky,2,2
+31-Oct-21,Colorado,2,2
+31-Oct-21,Illinois,1,3
+31-Oct-21,Texas,1,3
+31-Oct-21,Illinois,2,12
+31-Oct-21,Texas,1,3
+30-Oct-21,California,2,2
+30-Oct-21,Illinois,0,4
+30-Oct-21,Oklahoma,0,4
+30-Oct-21,California,2,5
+30-Oct-21,Florida,1,4
+30-Oct-21,Texas,1,9
+29-Oct-21,New York,0,5
+29-Oct-21,Michigan,0,4
+28-Oct-21,Nevada,0,4
+28-Oct-21,Tennessee,1,3
+25-Oct-21,Idaho,3,3
+24-Oct-21,California,2,2
+24-Oct-21,Mississippi,2,3
+23-Oct-21,South Carolina,0,6
+23-Oct-21,California,1,4
+23-Oct-21,Georgia,1,7
+22-Oct-21,Illinois,0,5
+22-Oct-21,Washington,0,4
+22-Oct-21,Maryland,0,7
+21-Oct-21,New York,0,4
+21-Oct-21,Washington,4,0
+20-Oct-21,Michigan,4,0
+19-Oct-21,Wisconsin,3,2
+17-Oct-21,Louisiana,1,7
+17-Oct-21,Missouri,1,3
+17-Oct-21,Texas,0,7
+17-Oct-21,Colorado,0,5
+17-Oct-21,Wisconsin,0,6
+17-Oct-21,Arkansas,1,9
+17-Oct-21,Arkansas,1,3
+17-Oct-21,Mississippi,3,3
+16-Oct-21,Texas,1,3
+15-Oct-21,Alabama,0,5
+14-Oct-21,Minnesota,1,4
+14-Oct-21,Mississippi,0,6
+12-Oct-21,Florida,1,5
+12-Oct-21,Mississippi,3,1
+11-Oct-21,Georgia,0,6
+10-Oct-21,Minnesota,1,15
+10-Oct-21,South Carolina,2,3
+10-Oct-21,Iowa,0,4
+10-Oct-21,Illinois,1,4
+10-Oct-21,Delaware,1,4
+9-Oct-21,Louisiana,2,4
+9-Oct-21,Texas,0,4
+9-Oct-21,New York,1,6
+9-Oct-21,Colorado,1,3
+8-Oct-21,Maryland,0,4
+8-Oct-21,District of Columbia,1,3
+8-Oct-21,Alabama,1,3
+7-Oct-21,Wisconsin,3,1
+7-Oct-21,Illinois,0,4
+7-Oct-21,Wisconsin,0,5
+7-Oct-21,Louisiana,1,4
+6-Oct-21,Maryland,1,5
+6-Oct-21,Louisiana,2,2
+6-Oct-21,Ohio,0,4
+6-Oct-21,Ohio,0,4
+5-Oct-21,Illinois,1,3
+5-Oct-21,Minnesota,0,4
+4-Oct-21,Minnesota,0,4
+3-Oct-21,South Carolina,1,4
+2-Oct-21,Texas,1,3
+2-Oct-21,Colorado,1,3
+1-Oct-21,District of Columbia,1,5
+1-Oct-21,Iowa,0,6
+29-Sep-21,Illinois,0,5
+28-Sep-21,Minnesota,1,3
+28-Sep-21,Illinois,1,3
+27-Sep-21,New York,0,5
+27-Sep-21,Illinois,1,3
+26-Sep-21,Illinois,0,6
+26-Sep-21,California,0,4
+26-Sep-21,Washington,3,3
+25-Sep-21,New York,0,4
+25-Sep-21,Tennessee,4,1
+25-Sep-21,Tennessee,2,5
+25-Sep-21,California,0,6
+24-Sep-21,South Carolina,4,1
+24-Sep-21,California,0,4
+23-Sep-21,Tennessee,2,14
+23-Sep-21,Pennsylvania,0,4
+22-Sep-21,North Carolina,2,2
+21-Sep-21,District of Columbia,0,5
+20-Sep-21,Pennsylvania,1,5
+20-Sep-21,Missouri,1,3
+19-Sep-21,New York,2,2
+19-Sep-21,Florida,0,4
+19-Sep-21,California,1,3
+19-Sep-21,Texas,2,4
+19-Sep-21,Illinois,0,5
+19-Sep-21,South Carolina,1,7
+18-Sep-21,New York,1,3
+18-Sep-21,Illinois,2,2
+18-Sep-21,Louisiana,0,5
+17-Sep-21,Georgia,0,4
+14-Sep-21,Maryland,0,4
+14-Sep-21,Ohio,0,6
+13-Sep-21,Wisconsin,0,5
+12-Sep-21,Minnesota,4,0
+12-Sep-21,Texas,0,4
+12-Sep-21,Illinois,2,2
+12-Sep-21,Michigan,2,4
+11-Sep-21,Alabama,0,5
+11-Sep-21,New York,1,3
+11-Sep-21,Illinois,1,3
+11-Sep-21,Illinois,2,4
+11-Sep-21,New Jersey,0,4
+10-Sep-21,Florida,0,4
+9-Sep-21,Illinois,0,7
+9-Sep-21,Alabama,1,3
+8-Sep-21,Missouri,0,4
+7-Sep-21,Delaware,0,4
+7-Sep-21,Kansas,1,5
+6-Sep-21,Georgia,0,5
+5-Sep-21,Missouri,0,4
+5-Sep-21,New York,0,4
+5-Sep-21,Missouri,0,4
+5-Sep-21,Texas,4,0
+5-Sep-21,Georgia,0,6
+5-Sep-21,Florida,4,2
+5-Sep-21,Ohio,0,4
+4-Sep-21,Louisiana,1,3
+4-Sep-21,District of Columbia,3,3
+4-Sep-21,Alabama,2,2
+4-Sep-21,Georgia,1,4
+4-Sep-21,Pennsylvania,0,4
+4-Sep-21,Illinois,0,5
+3-Sep-21,Texas,1,3
+3-Sep-21,New York,0,4
+3-Sep-21,Louisiana,1,3
+2-Sep-21,New York,0,4
+31-Aug-21,North Carolina,2,2
+30-Aug-21,Illinois,3,3
+29-Aug-21,Tennessee,0,5
+29-Aug-21,Nevada,1,3
+29-Aug-21,Wisconsin,0,4
+28-Aug-21,New York,0,5
+28-Aug-21,California,0,4
+28-Aug-21,Illinois,0,4
+27-Aug-21,California,0,4
+27-Aug-21,West Virginia,2,2
+27-Aug-21,Pennsylvania,1,4
+26-Aug-21,Minnesota,0,7
+23-Aug-21,Illinois,0,4
+22-Aug-21,Illinois,1,4
+22-Aug-21,Oregon,0,5
+22-Aug-21,Illinois,1,3
+22-Aug-21,Colorado,1,5
+22-Aug-21,Michigan,1,3
+21-Aug-21,Illinois,0,4
+21-Aug-21,Illinois,1,5
+20-Aug-21,Michigan,1,3
+19-Aug-21,Illinois,0,4
+19-Aug-21,Pennsylvania,1,4
+19-Aug-21,Maryland,1,3
+18-Aug-21,Maryland,1,3
+18-Aug-21,North Carolina,1,3
+18-Aug-21,Ohio,2,4
+18-Aug-21,California,0,4
+17-Aug-21,New York,0,5
+16-Aug-21,New York,0,8
+16-Aug-21,Michigan,1,3
+15-Aug-21,Texas,3,2
+15-Aug-21,Illinois,0,4
+14-Aug-21,Indiana,1,3
+14-Aug-21,New York,0,4
+14-Aug-21,Ohio,0,5
+14-Aug-21,Indiana,1,4
+14-Aug-21,New Jersey,0,4
+14-Aug-21,Texas,0,4
+13-Aug-21,Nevada,1,6
+11-Aug-21,Pennsylvania,1,4
+10-Aug-21,Oregon,2,4
+10-Aug-21,Mississippi,2,2
+9-Aug-21,Massachusetts,1,5
+9-Aug-21,Michigan,2,4
+8-Aug-21,New York,3,2
+8-Aug-21,Illinois,1,6
+8-Aug-21,Illinois,1,4
+8-Aug-21,Texas,1,5
+8-Aug-21,District of Columbia,0,4
+8-Aug-21,Louisiana,0,5
+7-Aug-21,Alabama,0,4
+7-Aug-21,Illinois,0,4
+7-Aug-21,Virginia,0,4
+6-Aug-21,Tennessee,0,4
+4-Aug-21,Pennsylvania,0,4
+3-Aug-21,Illinois,1,3
+2-Aug-21,South Carolina,3,1
+2-Aug-21,South Carolina,0,9
+1-Aug-21,Texas,1,3
+1-Aug-21,Rhode Island,0,5
+1-Aug-21,Louisiana,1,3
+1-Aug-21,Louisiana,0,5
+31-Jul-21,Ohio,1,5
+31-Jul-21,Illinois,1,3
+31-Jul-21,Indiana,0,5
+31-Jul-21,Michigan,2,2
+31-Jul-21,New York,0,10
+31-Jul-21,Ohio,0,5
+31-Jul-21,Kentucky,0,5
+29-Jul-21,Iowa,0,4
+29-Jul-21,Pennsylvania,3,2
+28-Jul-21,District of Columbia,0,4
+28-Jul-21,Alabama,1,3
+28-Jul-21,South Carolina,1,4
+25-Jul-21,Michigan,0,6
+25-Jul-21,California,5,1
+25-Jul-21,Illinois,0,5
+25-Jul-21,Washington,2,3
+24-Jul-21,Ohio,0,4
+24-Jul-21,Texas,0,6
+24-Jul-21,Georgia,2,3
+23-Jul-21,South Carolina,2,2
+23-Jul-21,South Carolina,0,4
+23-Jul-21,California,2,4
+22-Jul-21,Texas,1,5
+21-Jul-21,Illinois,0,5
+21-Jul-21,Maryland,1,4
+21-Jul-21,Illinois,0,8
+21-Jul-21,Illinois,2,3
+20-Jul-21,Texas,4,0
+19-Jul-21,New Jersey,0,6
+19-Jul-21,Illinois,0,4
+18-Jul-21,Ohio,1,3
+18-Jul-21,Florida,1,4
+18-Jul-21,North Carolina,0,4
+18-Jul-21,Arizona,4,3
+18-Jul-21,Texas,3,2
+18-Jul-21,California,1,3
+17-Jul-21,Oregon,1,6
+17-Jul-21,Illinois,0,6
+16-Jul-21,Pennsylvania,1,4
+16-Jul-21,California,2,4
+16-Jul-21,New Hampshire,0,4
+16-Jul-21,South Carolina,1,3
+16-Jul-21,District of Columbia,1,5
+16-Jul-21,Illinois,1,4
+15-Jul-21,Texas,1,5
+15-Jul-21,Massachusetts,0,4
+15-Jul-21,Missouri,1,3
+14-Jul-21,Illinois,0,5
+14-Jul-21,Illinois,0,5
+14-Jul-21,Delaware,2,2
+13-Jul-21,Indiana,0,4
+13-Jul-21,Michigan,1,6
+12-Jul-21,New Jersey,0,4
+12-Jul-21,Pennsylvania,2,3
+12-Jul-21,New York,0,4
+11-Jul-21,Texas,1,5
+10-Jul-21,Pennsylvania,0,6
+10-Jul-21,Massachusetts,0,4
+10-Jul-21,Ohio,1,3
+9-Jul-21,California,0,4
+8-Jul-21,Connecticut,0,4
+5-Jul-21,Ohio,1,11
+5-Jul-21,California,1,3
+5-Jul-21,New York,1,3
+5-Jul-21,Illinois,2,4
+4-Jul-21,California,0,4
+4-Jul-21,Ohio,0,4
+4-Jul-21,Illinois,1,3
+4-Jul-21,Nevada,2,7
+4-Jul-21,Illinois,0,4
+4-Jul-21,Missouri,0,4
+4-Jul-21,Texas,3,3
+4-Jul-21,Texas,0,5
+4-Jul-21,Texas,0,8
+4-Jul-21,Illinois,0,5
+4-Jul-21,Nebraska,1,4
+3-Jul-21,North Carolina,3,1
+3-Jul-21,Pennsylvania,0,4
+3-Jul-21,Georgia,1,3
+3-Jul-21,Illinois,0,4
+2-Jul-21,Virginia,0,4
+2-Jul-21,Pennsylvania,1,4
+2-Jul-21,Illinois,1,4
+1-Jul-21,Illinois,0,7
+1-Jul-21,South Carolina,2,4
+1-Jul-21,Virginia,2,2
+30-Jun-21,Illinois,0,4
+30-Jun-21,Texas,3,1
+30-Jun-21,Louisiana,0,4
+30-Jun-21,Delaware,1,3
+27-Jun-21,Illinois,1,5
+27-Jun-21,Illinois,1,3
+27-Jun-21,Illinois,1,10
+27-Jun-21,Tennessee,3,1
+27-Jun-21,North Carolina,0,4
+26-Jun-21,Texas,1,3
+26-Jun-21,Illinois,1,3
+26-Jun-21,Alabama,1,3
+25-Jun-21,Ohio,0,4
+25-Jun-21,Illinois,0,4
+25-Jun-21,New York,0,5
+24-Jun-21,Florida,1,4
+23-Jun-21,Alabama,2,2
+23-Jun-21,New York,0,4
+23-Jun-21,Illinois,0,4
+23-Jun-21,Illinois,0,4
+21-Jun-21,Missouri,3,4
+21-Jun-21,District of Columbia,0,4
+20-Jun-21,Virginia,1,3
+20-Jun-21,California,3,5
+20-Jun-21,Colorado,1,4
+20-Jun-21,Florida,1,10
+20-Jun-21,Texas,0,8
+20-Jun-21,Indiana,1,4
+20-Jun-21,New Jersey,1,3
+20-Jun-21,Ohio,1,3
+19-Jun-21,Alaska,1,4
+19-Jun-21,Louisiana,2,4
+19-Jun-21,New Jersey,0,4
+19-Jun-21,California,1,7
+18-Jun-21,Minnesota,0,5
+17-Jun-21,Virginia,0,4
+17-Jun-21,North Carolina,2,2
+17-Jun-21,Ohio,1,3
+17-Jun-21,New Jersey,0,4
+16-Jun-21,Maryland,1,5
+15-Jun-21,Illinois,0,5
+15-Jun-21,Illinois,5,3
+15-Jun-21,Alabama,3,2
+14-Jun-21,Georgia,2,2
+14-Jun-21,Michigan,2,2
+14-Jun-21,Florida,1,3
+13-Jun-21,Ohio,1,6
+13-Jun-21,Kentucky,1,3
+12-Jun-21,Texas,1,14
+12-Jun-21,Ohio,3,4
+12-Jun-21,Illinois,1,9
+11-Jun-21,Washington,2,2
+11-Jun-21,Georgia,2,6
+11-Jun-21,North Carolina,1,3
+11-Jun-21,Texas,0,5
+10-Jun-21,Michigan,1,3
+10-Jun-21,New York,0,4
+10-Jun-21,Illinois,1,4
+8-Jun-21,Tennessee,1,3
+8-Jun-21,Tennessee,1,4
+8-Jun-21,Texas,0,5
+7-Jun-21,Ohio,0,6
+7-Jun-21,Florida,3,3
+6-Jun-21,Missouri,0,4
+6-Jun-21,North Carolina,0,4
+6-Jun-21,Ohio,0,8
+6-Jun-21,Utah,1,4
+6-Jun-21,Florida,3,6
+6-Jun-21,California,0,5
+6-Jun-21,Illinois,0,8
+5-Jun-21,Louisiana,0,9
+5-Jun-21,Indiana,2,2
+4-Jun-21,Michigan,1,3
+2-Jun-21,Ohio,0,4
+2-Jun-21,Arkansas,0,4
+2-Jun-21,Ohio,0,6
+31-May-21,New York,0,4
+31-May-21,Missouri,0,4
+31-May-21,Ohio,1,5
+30-May-21,Alabama,1,4
+30-May-21,Florida,3,20
+30-May-21,Illinois,0,4
+29-May-21,Texas,2,2
+29-May-21,Missouri,1,3
+28-May-21,Florida,1,6
+27-May-21,North Carolina,0,5
+26-May-21,Illinois,1,3
+26-May-21,California,10,0
+24-May-21,Michigan,2,2
+24-May-21,Ohio,4,0
+23-May-21,Illinois,0,4
+23-May-21,New York,0,4
+23-May-21,New Jersey,0,5
+23-May-21,Virginia,0,4
+22-May-21,South Carolina,1,14
+22-May-21,Minnesota,2,7
+22-May-21,Delaware,0,4
+22-May-21,Ohio,1,5
+22-May-21,Indiana,1,4
+22-May-21,New Jersey,3,11
+21-May-21,New York,1,5
+21-May-21,New Jersey,2,4
+20-May-21,Indiana,1,3
+18-May-21,California,2,5
+18-May-21,California,1,4
+16-May-21,Ohio,1,3
+16-May-21,Georgia,0,4
+16-May-21,Michigan,0,5
+16-May-21,Georgia,0,4
+16-May-21,Georgia,1,5
+16-May-21,Alabama,1,4
+15-May-21,District of Columbia,1,3
+15-May-21,New York,1,4
+15-May-21,Illinois,2,3
+14-May-21,Pennsylvania,0,4
+13-May-21,Georgia,2,2
+13-May-21,District of Columbia,1,3
+13-May-21,Rhode Island,0,8
+12-May-21,Pennsylvania,1,3
+12-May-21,Georgia,2,2
+11-May-21,Maryland,0,4
+10-May-21,Alabama,0,7
+9-May-21,Pennsylvania,2,3
+9-May-21,Colorado,7,0
+9-May-21,Arizona,1,7
+9-May-21,California,1,3
+9-May-21,South Carolina,0,5
+9-May-21,New Jersey,0,4
+8-May-21,California,0,4
+8-May-21,California,0,4
+8-May-21,Maryland,4,1
+8-May-21,Michigan,0,4
+8-May-21,California,2,2
+8-May-21,Wisconsin,0,4
+7-May-21,Missouri,2,4
+6-May-21,New Jersey,0,5
+5-May-21,Illinois,0,4
+3-May-21,Michigan,1,4
+2-May-21,Ohio,0,4
+2-May-21,Pennsylvania,1,3
+2-May-21,Maryland,1,3
+2-May-21,Illinois,0,5
+2-May-21,Minnesota,0,4
+1-May-21,Delaware,0,4
+1-May-21,Louisiana,2,4
+1-May-21,New York,1,4
+1-May-21,Massachusetts,0,5
+1-May-21,Florida,1,3
+29-Apr-21,Georgia,1,5
+28-Apr-21,Florida,0,5
+28-Apr-21,North Carolina,5,0
+27-Apr-21,Virginia,2,3
+27-Apr-21,Alabama,1,4
+26-Apr-21,Louisiana,0,5
+26-Apr-21,Oregon,0,7
+25-Apr-21,Texas,0,4
+25-Apr-21,Missouri,1,4
+25-Apr-21,Alabama,0,4
+25-Apr-21,Arkansas,1,3
+24-Apr-21,Louisiana,0,5
+22-Apr-21,California,1,4
+19-Apr-21,Texas,2,4
+19-Apr-21,Georgia,0,5
+18-Apr-21,Wisconsin,3,3
+18-Apr-21,Michigan,1,5
+18-Apr-21,Louisiana,0,6
+18-Apr-21,Alabama,1,4
+17-Apr-21,Ohio,1,5
+17-Apr-21,Louisiana,0,9
+16-Apr-21,Michigan,0,4
+15-Apr-21,Indiana,9,7
+15-Apr-21,District of Columbia,0,4
+15-Apr-21,Louisiana,1,3
+15-Apr-21,Florida,0,6
+15-Apr-21,Illinois,0,4
+13-Apr-21,Maryland,0,4
+11-Apr-21,Kansas,1,3
+11-Apr-21,Washington,0,4
+10-Apr-21,Tennessee,1,3
+10-Apr-21,Michigan,0,4
+10-Apr-21,Missouri,1,3
+10-Apr-21,Connecticut,0,4
+9-Apr-21,Texas,1,5
+8-Apr-21,Texas,1,5
+7-Apr-21,South Carolina,7,0
+7-Apr-21,Wisconsin,2,3
+7-Apr-21,Ohio,0,4
+6-Apr-21,District of Columbia,0,4
+6-Apr-21,Michigan,1,3
+5-Apr-21,Illinois,0,7
+5-Apr-21,Maryland,0,5
+4-Apr-21,Alabama,1,5
+4-Apr-21,Louisiana,0,6
+4-Apr-21,Texas,0,4
+3-Apr-21,North Carolina,3,4
+3-Apr-21,Alabama,0,5
+3-Apr-21,Texas,6,0
+3-Apr-21,Florida,0,7
+31-Mar-21,California,4,2
+31-Mar-21,District of Columbia,2,3
+28-Mar-21,Ohio,0,7
+28-Mar-21,Maryland,5,1
+28-Mar-21,Texas,0,4
+28-Mar-21,Illinois,0,4
+27-Mar-21,Illinois,0,4
+27-Mar-21,Mississippi,0,6
+27-Mar-21,Illinois,1,3
+26-Mar-21,Virginia,0,9
+26-Mar-21,Virginia,0,4
+26-Mar-21,Tennessee,3,2
+26-Mar-21,Illinois,1,7
+26-Mar-21,Pennsylvania,0,7
+23-Mar-21,Alabama,2,2
+22-Mar-21,Colorado,10,1
+22-Mar-21,Michigan,1,3
+20-Mar-21,Texas,0,5
+20-Mar-21,Texas,1,7
+20-Mar-21,Pennsylvania,1,5
+18-Mar-21,Oregon,0,4
+18-Mar-21,Louisiana,0,4
+17-Mar-21,California,0,5
+16-Mar-21,Georgia,8,1
+16-Mar-21,Arizona,4,1
+15-Mar-21,Indiana,1,4
+14-Mar-21,Illinois,0,4
+14-Mar-21,Florida,0,4
+14-Mar-21,Illinois,2,13
+13-Mar-21,New York,0,5
+13-Mar-21,Virginia,2,4
+13-Mar-21,Florida,1,3
+13-Mar-21,Indiana,4,1
+12-Mar-21,North Carolina,1,3
+12-Mar-21,Texas,0,4
+11-Mar-21,New Mexico,1,3
+11-Mar-21,Pennsylvania,2,2
+10-Mar-21,Texas,3,1
+8-Mar-21,Florida,1,3
+7-Mar-21,Mississippi,0,4
+6-Mar-21,California,2,3
+6-Mar-21,North Carolina,1,4
+5-Mar-21,California,1,4
+4-Mar-21,District of Columbia,0,5
+3-Mar-21,Pennsylvania,2,3
+28-Feb-21,Ohio,3,3
+28-Feb-21,Indiana,0,4
+28-Feb-21,Delaware,0,4
+28-Feb-21,South Carolina,0,4
+28-Feb-21,Louisiana,0,5
+28-Feb-21,Texas,0,4
+27-Feb-21,Mississippi,0,4
+27-Feb-21,Mississippi,2,3
+26-Feb-21,Louisiana,0,4
+26-Feb-21,Texas,1,5
+26-Feb-21,California,1,3
+21-Feb-21,Missouri,1,4
+21-Feb-21,North Carolina,0,4
+20-Feb-21,Pennsylvania,1,4
+20-Feb-21,Louisiana,3,2
+20-Feb-21,Colorado,1,3
+20-Feb-21,Illinois,1,4
+18-Feb-21,Louisiana,1,3
+17-Feb-21,Pennsylvania,0,8
+16-Feb-21,Florida,3,1
+13-Feb-21,California,0,6
+13-Feb-21,Indiana,0,4
+13-Feb-21,California,0,6
+13-Feb-21,North Carolina,1,3
+11-Feb-21,Georgia,1,4
+10-Feb-21,Georgia,0,4
+9-Feb-21,Minnesota,1,4
+9-Feb-21,Texas,0,4
+6-Feb-21,Tennessee,1,4
+6-Feb-21,Louisiana,0,4
+6-Feb-21,Illinois,1,5
+6-Feb-21,Washington,1,3
+5-Feb-21,Pennsylvania,1,3
+5-Feb-21,Mississippi,3,1
+4-Feb-21,North Carolina,2,3
+3-Feb-21,Colorado,3,2
+3-Feb-21,Tennessee,1,3
+2-Feb-21,Florida,3,3
+2-Feb-21,Oklahoma,6,1
+1-Feb-21,New York,1,3
+30-Jan-21,New York,1,4
+29-Jan-21,Pennsylvania,2,3
+28-Jan-21,Michigan,1,4
+27-Jan-21,California,0,4
+25-Jan-21,District of Columbia,1,4
+24-Jan-21,Indiana,5,1
+24-Jan-21,Nevada,0,5
+22-Jan-21,Kentucky,0,5
+18-Jan-21,Pennsylvania,0,4
+17-Jan-21,Arizona,0,5
+17-Jan-21,Arizona,1,6
+16-Jan-21,Illinois,0,5
+15-Jan-21,Pennsylvania,0,4
+11-Jan-21,Florida,0,4
+9-Jan-21,Illinois,6,2
+9-Jan-21,Texas,1,3
+7-Jan-21,District of Columbia,0,5
+6-Jan-21,Texas,2,2
+6-Jan-21,Virginia,3,3
+4-Jan-21,Louisiana,0,4
+4-Jan-21,Florida,0,5
+4-Jan-21,Florida,0,7
+3-Jan-21,Oregon,0,4
+3-Jan-21,Texas,1,4
+3-Jan-21,Florida,0,6
+3-Jan-21,Louisiana,2,3
+3-Jan-21,California,2,2
+3-Jan-21,Florida,0,8
+1-Jan-21,Arkansas,0,7
+1-Jan-21,Texas,1,3
+1-Jan-21,Iowa,1,4
+1-Jan-21,Illinois,0,4
+31-Dec-20,Indiana,1,3
+31-Dec-20,Oregon,0,4
+26-Dec-20,Illinois,3,3
+26-Dec-20,Florida,2,2
+26-Dec-20,Massachusetts,1,5
+26-Dec-20,Florida,1,3
+25-Dec-20,Florida,1,4
+25-Dec-20,Arkansas,5,0
+24-Dec-20,Florida,1,4
+22-Dec-20,Mississippi,5,0
+20-Dec-20,Connecticut,2,2
+19-Dec-20,Illinois,0,6
+13-Dec-20,West Virginia,4,0
+12-Dec-20,California,1,3
+12-Dec-20,New York,2,2
+12-Dec-20,New York,0,4
+12-Dec-20,Maryland,2,2
+10-Dec-20,Georgia,0,4
+10-Dec-20,Mississippi,0,5
+8-Dec-20,West Virginia,6,0
+8-Dec-20,Louisiana,2,3
+6-Dec-20,Texas,0,6
+5-Dec-20,California,1,3
+5-Dec-20,North Carolina,0,6
+4-Dec-20,Illinois,0,4
+1-Dec-20,Pennsylvania,1,3
+30-Nov-20,Alaska,4,0
+29-Nov-20,Mississippi,0,11
+29-Nov-20,Tennessee,2,3
+28-Nov-20,South Carolina,1,10
+28-Nov-20,South Carolina,0,5
+28-Nov-20,Louisiana,0,4
+27-Nov-20,Georgia,1,5
+27-Nov-20,Ohio,0,6
+26-Nov-20,Nevada,1,5
+22-Nov-20,New York,1,6
+22-Nov-20,New Jersey,0,4
+22-Nov-20,Illinois,1,3
+22-Nov-20,Louisiana,1,3
+21-Nov-20,Illinois,0,6
+21-Nov-20,Arizona,1,4
+21-Nov-20,Nebraska,2,2
+20-Nov-20,Wisconsin,0,8
+19-Nov-20,Florida,1,3
+18-Nov-20,Texas,3,2
+18-Nov-20,South Carolina,0,4
+17-Nov-20,Tennessee,0,4
+16-Nov-20,Florida,0,4
+16-Nov-20,Illinois,0,4
+16-Nov-20,Illinois,0,4
+15-Nov-20,Louisiana,0,5
+15-Nov-20,Georgia,2,2
+14-Nov-20,South Carolina,3,1
+14-Nov-20,Missouri,0,4
+14-Nov-20,Ohio,0,4
+14-Nov-20,California,2,3
+12-Nov-20,Florida,2,4
+12-Nov-20,North Carolina,0,6
+10-Nov-20,Florida,1,7
+9-Nov-20,Texas,0,4
+8-Nov-20,Virginia,0,4
+8-Nov-20,Tennessee,0,8
+7-Nov-20,Kansas,0,4
+7-Nov-20,South Carolina,1,3
+6-Nov-20,Louisiana,2,2
+5-Nov-20,Ohio,3,2
+4-Nov-20,Missouri,0,4
+3-Nov-20,Nevada,4,1
+2-Nov-20,Ohio,0,5
+1-Nov-20,Arizona,2,2
+1-Nov-20,South Carolina,0,6
+1-Nov-20,Indiana,0,4
+1-Nov-20,Oklahoma,1,3
+1-Nov-20,North Carolina,1,3
+1-Nov-20,New Jersey,1,4
+31-Oct-20,California,0,4
+31-Oct-20,Washington,0,5
+31-Oct-20,California,0,4
+31-Oct-20,Nevada,0,4
+31-Oct-20,Maryland,0,7
+30-Oct-20,Maryland,1,3
+30-Oct-20,Illinois,1,3
+29-Oct-20,Florida,0,4
+28-Oct-20,Virginia,0,4
+28-Oct-20,New Jersey,1,3
+25-Oct-20,Texas,2,3
+25-Oct-20,Texas,1,3
+25-Oct-20,North Carolina,1,3
+24-Oct-20,Mississippi,2,8
+22-Oct-20,Louisiana,0,5
+22-Oct-20,Florida,1,3
+22-Oct-20,Massachusetts,0,4
+22-Oct-20,Maryland,0,4
+21-Oct-20,New York,1,5
+21-Oct-20,Mississippi,2,2
+20-Oct-20,Texas,3,1
+19-Oct-20,Ohio,0,5
+19-Oct-20,Louisiana,1,3
+18-Oct-20,Maryland,1,3
+18-Oct-20,Illinois,1,4
+18-Oct-20,Tennessee,0,4
+17-Oct-20,New York,1,5
+17-Oct-20,South Carolina,0,5
+16-Oct-20,California,2,4
+16-Oct-20,Florida,3,1
+16-Oct-20,Arizona,1,6
+16-Oct-20,California,1,3
+15-Oct-20,Louisiana,2,2
+15-Oct-20,Maryland,0,7
+14-Oct-20,Pennsylvania,0,4
+12-Oct-20,South Carolina,2,3
+11-Oct-20,Georgia,0,4
+10-Oct-20,Illinois,1,3
+10-Oct-20,South Carolina,0,8
+10-Oct-20,Missouri,2,2
+8-Oct-20,Pennsylvania,1,6
+7-Oct-20,Alaska,1,4
+7-Oct-20,New York,1,3
+5-Oct-20,District of Columbia,1,3
+4-Oct-20,Georgia,1,5
+4-Oct-20,Indiana,3,4
+3-Oct-20,Tennessee,0,5
+3-Oct-20,California,1,3
+2-Oct-20,California,0,4
+2-Oct-20,Washington,0,4
+1-Oct-20,Michigan,0,5
+30-Sep-20,North Carolina,0,4
+30-Sep-20,Florida,0,4
+30-Sep-20,Wisconsin,0,7
+29-Sep-20,Pennsylvania,0,5
+29-Sep-20,Ohio,2,2
+28-Sep-20,Michigan,0,6
+27-Sep-20,Ohio,1,3
+27-Sep-20,California,1,3
+27-Sep-20,Tennessee,0,4
+26-Sep-20,Pennsylvania,0,4
+26-Sep-20,Alabama,1,3
+26-Sep-20,Iowa,2,6
+26-Sep-20,Illinois,0,4
+26-Sep-20,Missouri,0,5
+25-Sep-20,Pennsylvania,0,4
+23-Sep-20,Georgia,1,3
+23-Sep-20,Minnesota,0,5
+21-Sep-20,Ohio,1,4
+20-Sep-20,New York,0,4
+20-Sep-20,Connecticut,1,3
+19-Sep-20,New York,1,4
+19-Sep-20,Illinois,0,4
+19-Sep-20,Illinois,0,4
+19-Sep-20,New Jersey,0,4
+19-Sep-20,New York,2,14
+19-Sep-20,New Jersey,0,5
+19-Sep-20,Arkansas,0,5
+18-Sep-20,Arkansas,0,4
+16-Sep-20,Pennsylvania,2,3
+15-Sep-20,California,2,4
+15-Sep-20,Illinois,0,5
+14-Sep-20,Louisiana,0,4
+13-Sep-20,Michigan,0,7
+13-Sep-20,Tennessee,3,3
+13-Sep-20,Florida,0,4
+13-Sep-20,Illinois,1,3
+13-Sep-20,New Jersey,2,7
+12-Sep-20,Illinois,2,4
+12-Sep-20,North Carolina,0,5
+12-Sep-20,Pennsylvania,0,4
+11-Sep-20,Louisiana,0,5
+10-Sep-20,Louisiana,3,2
+8-Sep-20,Maryland,0,5
+7-Sep-20,Louisiana,0,4
+7-Sep-20,New York,0,5
+7-Sep-20,California,7,0
+7-Sep-20,Indiana,1,4
+6-Sep-20,Georgia,1,6
+6-Sep-20,Illinois,0,4
+6-Sep-20,Tennessee,0,4
+6-Sep-20,Colorado,0,4
+6-Sep-20,Missouri,0,6
+6-Sep-20,Missouri,1,3
+6-Sep-20,Louisiana,0,5
+6-Sep-20,Maryland,0,4
+5-Sep-20,Texas,0,4
+5-Sep-20,Maryland,1,3
+5-Sep-20,Florida,0,6
+5-Sep-20,Arkansas,0,4
+3-Sep-20,South Carolina,1,3
+3-Sep-20,Florida,1,3
+3-Sep-20,Arkansas,1,3
+3-Sep-20,Pennsylvania,0,6
+3-Sep-20,Arkansas,0,4
+2-Sep-20,Pennsylvania,2,2
+2-Sep-20,Georgia,1,3
+2-Sep-20,California,0,4
+31-Aug-20,Pennsylvania,0,5
+31-Aug-20,Florida,0,4
+30-Aug-20,Kentucky,0,7
+30-Aug-20,Illinois,1,3
+30-Aug-20,Texas,2,2
+30-Aug-20,New York,1,4
+30-Aug-20,Pennsylvania,0,4
+30-Aug-20,Illinois,1,4
+30-Aug-20,Kentucky,0,5
+29-Aug-20,Nevada,2,2
+29-Aug-20,Illinois,1,5
+28-Aug-20,Minnesota,0,4
+28-Aug-20,Pennsylvania,1,3
+28-Aug-20,Texas,1,4
+27-Aug-20,Oregon,1,3
+26-Aug-20,Michigan,3,1
+26-Aug-20,South Carolina,0,4
+26-Aug-20,Pennsylvania,0,4
+25-Aug-20,Virginia,0,5
+25-Aug-20,New York,0,4
+24-Aug-20,Michigan,0,4
+24-Aug-20,California,1,3
+24-Aug-20,Florida,0,4
+24-Aug-20,Virginia,1,4
+23-Aug-20,Tennessee,1,4
+23-Aug-20,Arkansas,0,7
+23-Aug-20,New York,1,3
+23-Aug-20,Colorado,0,6
+23-Aug-20,Illinois,0,4
+23-Aug-20,Illinois,0,4
+22-Aug-20,Illinois,1,3
+22-Aug-20,Alabama,1,3
+19-Aug-20,Pennsylvania,0,4
+19-Aug-20,Illinois,0,6
+18-Aug-20,Pennsylvania,1,4
+18-Aug-20,New York,0,4
+18-Aug-20,Illinois,0,4
+17-Aug-20,Ohio,0,5
+17-Aug-20,New York,0,4
+17-Aug-20,Texas,3,2
+16-Aug-20,Kentucky,1,3
+16-Aug-20,Ohio,1,3
+16-Aug-20,Ohio,2,9
+16-Aug-20,Ohio,1,3
+16-Aug-20,Colorado,2,4
+16-Aug-20,Oklahoma,0,4
+15-Aug-20,Michigan,4,0
+15-Aug-20,Pennsylvania,0,5
+15-Aug-20,New York,0,5
+15-Aug-20,Connecticut,1,5
+15-Aug-20,Alabama,2,3
+14-Aug-20,New York,0,4
+12-Aug-20,New Jersey,1,4
+12-Aug-20,Ohio,1,3
+11-Aug-20,California,0,5
+9-Aug-20,Colorado,0,9
+9-Aug-20,Ohio,0,6
+9-Aug-20,District of Columbia,1,21
+9-Aug-20,Mississippi,0,4
+9-Aug-20,Texas,0,4
+8-Aug-20,Kentucky,1,4
+8-Aug-20,Pennsylvania,0,6
+8-Aug-20,Massachusetts,0,5
+8-Aug-20,Alabama,1,5
+8-Aug-20,New York,1,3
+6-Aug-20,California,1,3
+5-Aug-20,Illinois,0,4
+4-Aug-20,Wisconsin,0,4
+4-Aug-20,District of Columbia,0,4
+4-Aug-20,California,1,4
+4-Aug-20,Missouri,1,3
+4-Aug-20,Connecticut,1,5
+3-Aug-20,New York,0,4
+2-Aug-20,Pennsylvania,0,4
+2-Aug-20,New Jersey,0,5
+1-Aug-20,Illinois,1,4
+1-Aug-20,Texas,2,3
+1-Aug-20,Colorado,1,4
+1-Aug-20,Alabama,0,4
+31-Jul-20,Pennsylvania,1,3
+30-Jul-20,Florida,0,5
+30-Jul-20,Florida,0,5
+29-Jul-20,Michigan,0,4
+29-Jul-20,Ohio,5,0
+29-Jul-20,Missouri,3,2
+28-Jul-20,Delaware,2,2
+28-Jul-20,Wisconsin,0,4
+27-Jul-20,Washington,1,3
+27-Jul-20,Illinois,1,4
+26-Jul-20,Texas,0,4
+26-Jul-20,Michigan,1,3
+26-Jul-20,Kentucky,1,3
+26-Jul-20,Colorado,1,3
+26-Jul-20,Arkansas,0,4
+25-Jul-20,Michigan,0,6
+25-Jul-20,North Carolina,0,4
+25-Jul-20,Florida,1,3
+25-Jul-20,Colorado,2,3
+25-Jul-20,Texas,0,4
+25-Jul-20,California,0,7
+24-Jul-20,Georgia,2,2
+23-Jul-20,Virginia,1,3
+23-Jul-20,Virginia,0,4
+23-Jul-20,Illinois,2,4
+22-Jul-20,Michigan,0,4
+21-Jul-20,Illinois,0,15
+20-Jul-20,Virginia,1,4
+20-Jul-20,Illinois,0,5
+19-Jul-20,Michigan,1,3
+19-Jul-20,Nebraska,0,8
+19-Jul-20,Illinois,2,3
+19-Jul-20,Illinois,0,13
+19-Jul-20,District of Columbia,1,8
+19-Jul-20,Michigan,4,0
+18-Jul-20,Illinois,1,4
+17-Jul-20,Ohio,0,4
+17-Jul-20,Florida,0,4
+16-Jul-20,Tennessee,0,5
+15-Jul-20,Louisiana,1,3
+15-Jul-20,New York,1,5
+14-Jul-20,Missouri,0,5
+14-Jul-20,North Carolina,0,8
+13-Jul-20,New York,0,6
+13-Jul-20,Kentucky,1,3
+13-Jul-20,Washington,0,6
+12-Jul-20,New York,1,3
+12-Jul-20,Louisiana,1,7
+12-Jul-20,Michigan,0,5
+12-Jul-20,Florida,2,2
+12-Jul-20,Illinois,1,3
+12-Jul-20,Illinois,1,4
+12-Jul-20,Mississippi,2,4
+11-Jul-20,New York,0,6
+11-Jul-20,Delaware,0,5
+7-Jul-20,Virginia,0,5
+7-Jul-20,New Jersey,4,3
+6-Jul-20,Illinois,0,6
+5-Jul-20,South Carolina,2,8
+5-Jul-20,Illinois,0,4
+5-Jul-20,Iowa,1,3
+5-Jul-20,New York,0,5
+5-Jul-20,Arkansas,1,3
+5-Jul-20,Georgia,2,13
+5-Jul-20,Missouri,2,3
+5-Jul-20,Wisconsin,0,4
+5-Jul-20,Texas,0,4
+5-Jul-20,Maryland,0,4
+5-Jul-20,Illinois,1,5
+5-Jul-20,Pennsylvania,0,4
+5-Jul-20,Illinois,1,5
+5-Jul-20,Mississippi,0,4
+5-Jul-20,Michigan,2,4
+4-Jul-20,Maryland,1,3
+4-Jul-20,Georgia,0,5
+4-Jul-20,Massachusetts,1,4
+4-Jul-20,Michigan,2,3
+4-Jul-20,South Carolina,0,5
+4-Jul-20,Illinois,1,3
+4-Jul-20,Illinois,4,4
+4-Jul-20,Mississippi,1,3
+4-Jul-20,Louisiana,0,4
+3-Jul-20,Alabama,1,3
+3-Jul-20,Maryland,0,4
+2-Jul-20,California,2,3
+2-Jul-20,Massachusetts,0,4
+2-Jul-20,New Jersey,1,4
+1-Jul-20,California,0,4
+1-Jul-20,Louisiana,0,4
+30-Jun-20,Iowa,0,5
+30-Jun-20,Georgia,1,4
+30-Jun-20,Massachusetts,1,3
+30-Jun-20,Illinois,0,4
+30-Jun-20,Ohio,0,4
+30-Jun-20,Arkansas,0,4
+29-Jun-20,California,0,4
+29-Jun-20,South Dakota,1,3
+28-Jun-20,Pennsylvania,2,2
+28-Jun-20,Alabama,0,7
+27-Jun-20,Illinois,2,2
+27-Jun-20,California,3,4
+27-Jun-20,Illinois,0,4
+27-Jun-20,New York,0,4
+27-Jun-20,Arkansas,3,1
+26-Jun-20,Colorado,0,5
+26-Jun-20,California,0,4
+26-Jun-20,Arizona,0,4
+25-Jun-20,Pennsylvania,0,4
+25-Jun-20,Connecticut,1,3
+24-Jun-20,Tennessee,0,4
+23-Jun-20,Illinois,0,4
+23-Jun-20,Florida,0,5
+22-Jun-20,North Carolina,4,5
+22-Jun-20,California,0,5
+22-Jun-20,New York,0,5
+22-Jun-20,Minnesota,0,4
+22-Jun-20,Minnesota,0,4
+22-Jun-20,Illinois,0,5
+22-Jun-20,Illinois,0,4
+22-Jun-20,Ohio,1,4
+21-Jun-20,New York,0,4
+21-Jun-20,Texas,0,5
+21-Jun-20,Minnesota,0,11
+21-Jun-20,Alabama,0,4
+21-Jun-20,Texas,1,3
+21-Jun-20,Wisconsin,0,5
+21-Jun-20,Illinois,1,3
+20-Jun-20,New York,0,4
+20-Jun-20,New York,1,8
+20-Jun-20,Michigan,0,4
+20-Jun-20,New Jersey,1,4
+20-Jun-20,Michigan,1,3
+20-Jun-20,Wisconsin,0,5
+20-Jun-20,North Carolina,2,2
+20-Jun-20,Kansas,0,5
+20-Jun-20,New York,0,4
+18-Jun-20,New York,0,7
+17-Jun-20,Illinois,0,4
+16-Jun-20,Iowa,2,2
+15-Jun-20,Illinois,0,4
+14-Jun-20,Minnesota,1,6
+14-Jun-20,Kentucky,1,4
+14-Jun-20,Louisiana,0,5
+14-Jun-20,Louisiana,0,4
+14-Jun-20,Louisiana,2,2
+13-Jun-20,Arkansas,0,4
+13-Jun-20,California,0,5
+13-Jun-20,Missouri,2,4
+13-Jun-20,Maryland,0,5
+13-Jun-20,Georgia,2,5
+13-Jun-20,District of Columbia,2,5
+13-Jun-20,New York,1,7
+12-Jun-20,Pennsylvania,0,6
+12-Jun-20,New York,1,3
+12-Jun-20,Texas,0,8
+11-Jun-20,Virginia,0,4
+11-Jun-20,District of Columbia,0,7
+11-Jun-20,Louisiana,6,0
+11-Jun-20,Texas,2,4
+10-Jun-20,California,2,4
+10-Jun-20,California,1,4
+10-Jun-20,Ohio,1,3
+9-Jun-20,North Carolina,0,5
+9-Jun-20,Pennsylvania,1,6
+9-Jun-20,California,2,3
+8-Jun-20,New York,0,4
+8-Jun-20,Tennessee,0,4
+7-Jun-20,Tennessee,0,5
+7-Jun-20,Arkansas,0,5
+7-Jun-20,Illinois,1,3
+7-Jun-20,Missouri,2,7
+7-Jun-20,Illinois,1,3
+7-Jun-20,Illinois,0,6
+6-Jun-20,California,1,4
+6-Jun-20,Missouri,1,4
+6-Jun-20,Mississippi,0,5
+6-Jun-20,Ohio,0,4
+5-Jun-20,Colorado,0,4
+4-Jun-20,Alabama,7,0
+2-Jun-20,Texas,1,3
+2-Jun-20,Wisconsin,0,5
+2-Jun-20,Illinois,0,4
+1-Jun-20,Missouri,0,4
+31-May-20,Mississippi,1,5
+31-May-20,Pennsylvania,0,4
+30-May-20,New Jersey,0,4
+30-May-20,District of Columbia,0,4
+30-May-20,Texas,1,4
+30-May-20,Florida,2,4
+30-May-20,North Carolina,1,5
+29-May-20,Virginia,0,5
+28-May-20,Kentucky,0,7
+28-May-20,Tennessee,0,4
+28-May-20,Pennsylvania,1,3
+27-May-20,Massachusetts,1,4
+27-May-20,Ohio,1,3
+27-May-20,California,0,5
+27-May-20,Pennsylvania,0,4
+26-May-20,Mississippi,0,4
+26-May-20,Pennsylvania,0,4
+26-May-20,Illinois,2,2
+26-May-20,California,0,5
+26-May-20,South Carolina,3,5
+25-May-20,Louisiana,0,6
+24-May-20,Missouri,0,4
+24-May-20,South Carolina,0,4
+24-May-20,Alabama,3,1
+23-May-20,Texas,0,4
+23-May-20,Illinois,1,4
+23-May-20,South Carolina,2,5
+23-May-20,North Carolina,0,6
+23-May-20,Michigan,1,3
+23-May-20,Florida,0,5
+23-May-20,Florida,0,6
+23-May-20,Illinois,1,3
+23-May-20,Mississippi,1,4
+22-May-20,Ohio,1,3
+20-May-20,Texas,2,3
+19-May-20,Illinois,0,5
+18-May-20,California,0,5
+17-May-20,South Carolina,0,4
+17-May-20,South Carolina,4,1
+16-May-20,Louisiana,0,13
+15-May-20,Florida,0,5
+15-May-20,Pennsylvania,0,4
+14-May-20,New Mexico,0,5
+13-May-20,Illinois,1,4
+13-May-20,Kentucky,1,4
+13-May-20,Tennessee,0,4
+11-May-20,Alabama,0,4
+10-May-20,Louisiana,0,5
+10-May-20,Texas,0,5
+10-May-20,Texas,0,6
+9-May-20,Missouri,0,4
+7-May-20,Maryland,0,4
+6-May-20,Texas,3,1
+6-May-20,Tennessee,2,2
+6-May-20,Georgia,1,3
+3-May-20,Ohio,0,4
+3-May-20,Florida,1,3
+3-May-20,Illinois,0,5
+2-May-20,Pennsylvania,0,4
+29-Apr-20,Indiana,0,4
+27-Apr-20,Wisconsin,5,0
+26-Apr-20,New York,0,4
+26-Apr-20,North Carolina,1,4
+25-Apr-20,Florida,1,4
+25-Apr-20,Tennessee,0,7
+24-Apr-20,Texas,3,1
+24-Apr-20,Indiana,0,4
+18-Apr-20,Maryland,2,2
+17-Apr-20,North Carolina,1,3
+17-Apr-20,Massachusetts,1,4
+16-Apr-20,Pennsylvania,0,4
+15-Apr-20,Mississippi,1,3
+11-Apr-20,California,0,6
+10-Apr-20,Michigan,0,4
+8-Apr-20,Michigan,0,4
+8-Apr-20,South Carolina,1,3
+8-Apr-20,Alaska,0,4
+7-Apr-20,Illinois,1,3
+5-Apr-20,New York,0,4
+5-Apr-20,California,1,3
+5-Apr-20,South Carolina,1,4
+4-Apr-20,Texas,2,2
+4-Apr-20,Texas,0,4
+4-Apr-20,Florida,1,4
+3-Apr-20,Kentucky,0,4
+31-Mar-20,Georgia,3,1
+30-Mar-20,Pennsylvania,0,5
+29-Mar-20,Georgia,0,4
+28-Mar-20,Maryland,1,3
+23-Mar-20,Texas,0,4
+22-Mar-20,South Carolina,0,4
+20-Mar-20,Virginia,0,4
+20-Mar-20,Missouri,0,4
+18-Mar-20,Florida,1,4
+17-Mar-20,Maryland,0,7
+15-Mar-20,North Carolina,7,0
+15-Mar-20,Missouri,5,2
+14-Mar-20,New Mexico,1,3
+14-Mar-20,Michigan,2,2
+13-Mar-20,Illinois,0,4
+13-Mar-20,Louisiana,0,5
+10-Mar-20,Pennsylvania,2,2
+8-Mar-20,Illinois,0,4
+8-Mar-20,Maryland,1,5
+8-Mar-20,California,1,3
+7-Mar-20,Ohio,1,18
+7-Mar-20,New Mexico,0,4
+7-Mar-20,Illinois,0,7
+6-Mar-20,District of Columbia,0,6
+4-Mar-20,California,1,5
+29-Feb-20,Missouri,1,4
+29-Feb-20,Colorado,0,5
+26-Feb-20,Wisconsin,6,0
+25-Feb-20,Illinois,1,4
+23-Feb-20,North Carolina,3,1
+23-Feb-20,Texas,0,7
+20-Feb-20,Idaho,2,3
+20-Feb-20,North Carolina,0,4
+17-Feb-20,Mississippi,2,2
+16-Feb-20,Connecticut,1,5
+16-Feb-20,Florida,1,4
+15-Feb-20,Louisiana,0,4
+15-Feb-20,Tennessee,0,7
+14-Feb-20,Illinois,0,6
+10-Feb-20,Delaware,1,4
+8-Feb-20,Texas,1,3
+5-Feb-20,Indiana,4,0
+3-Feb-20,Maine,3,1
+3-Feb-20,California,1,5
+1-Feb-20,Mississippi,0,4
+31-Jan-20,California,1,4
+31-Jan-20,Louisiana,0,4
+31-Jan-20,Florida,1,3
+30-Jan-20,California,0,4
+27-Jan-20,Connecticut,0,4
+26-Jan-20,Missouri,0,5
+26-Jan-20,New York,3,1
+26-Jan-20,North Carolina,0,6
+26-Jan-20,South Carolina,3,3
+24-Jan-20,North Carolina,5,0
+22-Jan-20,Washington,1,7
+19-Jan-20,Missouri,2,15
+19-Jan-20,Tennessee,1,4
+19-Jan-20,Texas,2,5
+18-Jan-20,Texas,2,2
+17-Jan-20,Utah,4,1
+16-Jan-20,Illinois,0,5
+11-Jan-20,Colorado,0,5
+8-Jan-20,Mississippi,2,2
+5-Jan-20,Georgia,0,4
+4-Jan-20,Florida,1,3
+2-Jan-20,New York,0,4
+1-Jan-20,Ohio,0,4
+1-Jan-20,West Virginia,0,7
+1-Jan-20,Missouri,3,2
+29-Dec-19,Illinois,0,5
+29-Dec-19,New York,1,3
+29-Dec-19,California,0,5
+27-Dec-19,California,1,3
+27-Dec-19,Texas,2,7
+27-Dec-19,Georgia,0,4
+26-Dec-19,Florida,0,5
+25-Dec-19,California,0,4
+25-Dec-19,Iowa,1,3
+25-Dec-19,Virginia,1,3
+24-Dec-19,Louisiana,0,4
+24-Dec-19,Illinois,0,5
+24-Dec-19,North Carolina,0,6
+22-Dec-19,Maryland,0,7
+22-Dec-19,Minnesota,1,7
+22-Dec-19,Illinois,0,13
+21-Dec-19,Louisiana,0,4
+20-Dec-19,Mississippi,1,6
+20-Dec-19,Alabama,2,2
+18-Dec-19,Texas,0,4
+17-Dec-19,Montana,4,1
+15-Dec-19,Georgia,1,4
+14-Dec-19,California,0,4
+12-Dec-19,Missouri,1,3
+10-Dec-19,New Jersey,6,3
+8-Dec-19,Texas,2,3
+8-Dec-19,Louisiana,1,4
+6-Dec-19,Florida,4,8
+4-Dec-19,Alabama,2,2
+1-Dec-19,Michigan,1,3
+1-Dec-19,Louisiana,2,3
+1-Dec-19,Louisiana,2,2
+1-Dec-19,Illinois,1,4
+1-Dec-19,Louisiana,0,12
+30-Nov-19,Arkansas,0,5
+29-Nov-19,Texas,0,7
+27-Nov-19,New York,0,5
+25-Nov-19,Florida,2,2
+24-Nov-19,Alabama,1,4
+24-Nov-19,California,0,6
+24-Nov-19,Louisiana,2,2
+23-Nov-19,California,0,4
+23-Nov-19,Louisiana,1,6
+21-Nov-19,California,0,5
+21-Nov-19,Washington,0,4
+20-Nov-19,California,0,4
+18-Nov-19,New Jersey,1,4
+17-Nov-19,California,4,6
+17-Nov-19,Ohio,0,4
+16-Nov-19,California,6,0
+14-Nov-19,California,3,3
+11-Nov-19,Florida,0,4
+10-Nov-19,Missouri,0,4
+10-Nov-19,Tennessee,1,4
+10-Nov-19,Arkansas,0,4
+9-Nov-19,Michigan,0,4
+9-Nov-19,Georgia,0,4
+8-Nov-19,North Carolina,1,3
+7-Nov-19,Georgia,2,3
+4-Nov-19,Texas,1,4
+3-Nov-19,Ohio,0,4
+3-Nov-19,Texas,1,3
+2-Nov-19,Louisiana,0,4
+2-Nov-19,Michigan,1,4
+1-Nov-19,Arizona,0,5
+1-Nov-19,Texas,0,4
+31-Oct-19,California,5,3
+30-Oct-19,Pennsylvania,4,0
+29-Oct-19,Maryland,1,3
+29-Oct-19,California,3,9
+28-Oct-19,Maryland,1,3
+27-Oct-19,Michigan,0,4
+27-Oct-19,Michigan,1,4
+26-Oct-19,Texas,2,6
+24-Oct-19,Oklahoma,2,2
+22-Oct-19,Oklahoma,1,3
+21-Oct-19,South Carolina,0,4
+20-Oct-19,Texas,1,3
+19-Oct-19,Pennsylvania,0,4
+19-Oct-19,Texas,1,4
+15-Oct-19,Ohio,0,4
+13-Oct-19,Pennsylvania,0,6
+13-Oct-19,Ohio,0,4
+12-Oct-19,New York,4,3
+12-Oct-19,Illinois,5,0
+12-Oct-19,Pennsylvania,1,3
+12-Oct-19,Maryland,1,3
+12-Oct-19,Michigan,1,5
+10-Oct-19,Florida,2,2
+10-Oct-19,Pennsylvania,0,5
+9-Oct-19,Massachusetts,0,5
+9-Oct-19,Maryland,1,3
+7-Oct-19,Massachusetts,5,0
+6-Oct-19,Indiana,0,5
+6-Oct-19,Colorado,0,4
+6-Oct-19,Kansas,4,5
+5-Oct-19,Missouri,0,5
+3-Oct-19,North Carolina,1,3
+3-Oct-19,Missouri,1,3
+1-Oct-19,Missouri,0,4
+29-Sep-19,Illinois,1,3
+29-Sep-19,Wisconsin,0,4
+29-Sep-19,Florida,0,4
+29-Sep-19,Kansas,0,4
+29-Sep-19,Texas,4,0
+24-Sep-19,Illinois,1,3
+23-Sep-19,Indiana,2,2
+22-Sep-19,Missouri,0,5
+21-Sep-19,Louisiana,0,4
+21-Sep-19,South Carolina,2,8
+21-Sep-19,Indiana,0,6
+21-Sep-19,Ohio,4,0
+20-Sep-19,Louisiana,1,5
+19-Sep-19,District of Columbia,1,5
+18-Sep-19,Illinois,3,1
+18-Sep-19,California,2,2
+16-Sep-19,Wyoming,2,2
+14-Sep-19,Missouri,1,3
+14-Sep-19,California,1,4
+14-Sep-19,Georgia,0,4
+12-Sep-19,New Mexico,1,4
+12-Sep-19,New Mexico,4,2
+10-Sep-19,Illinois,0,4
+8-Sep-19,South Carolina,2,2
+8-Sep-19,Louisiana,1,3
+7-Sep-19,North Carolina,3,1
+4-Sep-19,Florida,0,4
+4-Sep-19,Louisiana,2,2
+2-Sep-19,Alabama,5,0
+2-Sep-19,North Carolina,2,2
+2-Sep-19,Illinois,0,4
+1-Sep-19,Connecticut,1,3
+1-Sep-19,North Carolina,0,4
+1-Sep-19,Alabama,0,7
+1-Sep-19,Ohio,0,4
+31-Aug-19,North Carolina,1,3
+31-Aug-19,South Carolina,0,4
+31-Aug-19,Texas,8,23
+31-Aug-19,Pennsylvania,2,2
+31-Aug-19,Maryland,0,4
+31-Aug-19,Maryland,0,4
+31-Aug-19,Illinois,2,3
+30-Aug-19,Maryland,1,3
+30-Aug-19,Alabama,0,9
+29-Aug-19,Maryland,1,3
+25-Aug-19,New Mexico,3,4
+25-Aug-19,Illinois,1,3
+24-Aug-19,Maryland,0,7
+24-Aug-19,Massachusetts,1,3
+23-Aug-19,Texas,3,2
+23-Aug-19,Georgia,0,4
+23-Aug-19,Missouri,1,3
+22-Aug-19,South Carolina,2,2
+22-Aug-19,California,0,4
+20-Aug-19,Georgia,0,4
+18-Aug-19,Missouri,0,4
+17-Aug-19,Texas,0,6
+15-Aug-19,Alabama,2,3
+15-Aug-19,Pennsylvania,0,5
+14-Aug-19,Pennsylvania,0,6
+13-Aug-19,Washington,2,3
+12-Aug-19,Mississippi,0,4
+11-Aug-19,Illinois,0,6
+10-Aug-19,Virginia,0,4
+10-Aug-19,California,0,4
+9-Aug-19,Illinois,0,4
+7-Aug-19,Missouri,3,1
+5-Aug-19,New York,0,4
+4-Aug-19,Louisiana,0,4
+4-Aug-19,Illinois,1,7
+4-Aug-19,Tennessee,1,3
+4-Aug-19,Illinois,0,7
+4-Aug-19,Ohio,10,17
+3-Aug-19,Texas,23,23
+2-Aug-19,Virginia,2,3
+30-Jul-19,Ohio,0,5
+28-Jul-19,Pennsylvania,1,5
+28-Jul-19,California,4,17
+28-Jul-19,Wisconsin,5,2
+28-Jul-19,District of Columbia,0,4
+28-Jul-19,Illinois,0,4
+27-Jul-19,Kansas,1,3
+27-Jul-19,New York,1,11
+26-Jul-19,Washington,1,3
+25-Jul-19,California,4,2
+21-Jul-19,Illinois,0,4
+21-Jul-19,District of Columbia,0,4
+20-Jul-19,Maryland,1,3
+20-Jul-19,Pennsylvania,0,4
+20-Jul-19,Illinois,0,7
+18-Jul-19,Illinois,1,3
+17-Jul-19,Texas,1,3
+16-Jul-19,Texas,0,4
+15-Jul-19,Georgia,0,4
+14-Jul-19,Illinois,0,4
+13-Jul-19,Illinois,1,4
+13-Jul-19,Pennsylvania,0,7
+11-Jul-19,Texas,0,4
+8-Jul-19,District of Columbia,2,2
+7-Jul-19,Michigan,0,6
+7-Jul-19,Missouri,0,5
+7-Jul-19,Illinois,0,4
+7-Jul-19,Illinois,0,4
+7-Jul-19,New Mexico,0,4
+6-Jul-19,California,0,4
+6-Jul-19,Missouri,5,0
+5-Jul-19,Massachusetts,0,6
+5-Jul-19,Nevada,1,5
+5-Jul-19,Illinois,0,5
+5-Jul-19,New York,0,4
+4-Jul-19,Illinois,0,4
+4-Jul-19,California,0,4
+4-Jul-19,Illinois,1,3
+4-Jul-19,California,1,3
+3-Jul-19,Texas,2,3
+2-Jul-19,Missouri,0,4
+1-Jul-19,Maryland,0,4
+30-Jun-19,California,0,4
+30-Jun-19,California,0,5
+30-Jun-19,Texas,2,2
+30-Jun-19,New York,0,6
+29-Jun-19,Connecticut,0,4
+29-Jun-19,Louisiana,0,4
+29-Jun-19,Illinois,0,5
+29-Jun-19,Louisiana,0,7
+28-Jun-19,New Jersey,0,4
+28-Jun-19,Connecticut,0,5
+28-Jun-19,Georgia,0,7
+28-Jun-19,New Jersey,0,4
+28-Jun-19,Minnesota,0,5
+27-Jun-19,Georgia,0,7
+26-Jun-19,Wisconsin,0,4
+26-Jun-19,Ohio,1,3
+23-Jun-19,California,1,3
+23-Jun-19,California,5,0
+23-Jun-19,Indiana,1,10
+23-Jun-19,Ohio,0,5
+23-Jun-19,South Carolina,3,1
+22-Jun-19,Virginia,0,4
+22-Jun-19,Pennsylvania,0,4
+22-Jun-19,Maryland,1,4
+21-Jun-19,Michigan,1,3
+21-Jun-19,Illinois,0,4
+21-Jun-19,California,5,0
+21-Jun-19,California,0,5
+20-Jun-19,Pennsylvania,0,10
+18-Jun-19,New Jersey,1,4
+17-Jun-19,Texas,0,4
+17-Jun-19,Tennessee,0,5
+16-Jun-19,Pennsylvania,1,5
+16-Jun-19,Kentucky,1,6
+16-Jun-19,Iowa,0,6
+15-Jun-19,Louisiana,0,4
+12-Jun-19,North Carolina,1,3
+11-Jun-19,Colorado,0,4
+11-Jun-19,Georgia,2,2
+9-Jun-19,Ohio,1,3
+9-Jun-19,New York,0,4
+9-Jun-19,Tennessee,1,3
+8-Jun-19,Washington,5,2
+8-Jun-19,Illinois,0,4
+7-Jun-19,Texas,0,5
+6-Jun-19,Illinois,1,3
+5-Jun-19,California,0,4
+1-Jun-19,South Carolina,0,5
+1-Jun-19,Illinois,0,4
+1-Jun-19,Virginia,1,3
+1-Jun-19,Illinois,0,4
+1-Jun-19,Georgia,0,5
+1-Jun-19,Georgia,2,4
+31-May-19,Virginia,13,4
+31-May-19,California,1,3
+30-May-19,Illinois,0,5
+29-May-19,Texas,3,2
+29-May-19,Louisiana,1,3
+27-May-19,Missouri,2,2
+27-May-19,District of Columbia,0,5
+27-May-19,New Jersey,1,5
+26-May-19,District of Columbia,1,3
+26-May-19,Virginia,0,5
+26-May-19,California,1,3
+25-May-19,New Jersey,0,9
+25-May-19,Michigan,3,2
+25-May-19,Virginia,1,9
+25-May-19,Maryland,0,4
+25-May-19,Oklahoma,0,5
+20-May-19,Oklahoma,2,2
+20-May-19,Louisiana,1,4
+20-May-19,Ohio,0,4
+19-May-19,Oregon,0,5
+18-May-19,Mississippi,1,4
+18-May-19,Alabama,1,8
+18-May-19,California,1,4
+18-May-19,Iowa,2,2
+18-May-19,Nebraska,0,4
+18-May-19,North Carolina,2,4
+18-May-19,Indiana,1,6
+17-May-19,California,1,3
+16-May-19,Ohio,0,4
+15-May-19,Louisiana,0,4
+14-May-19,California,0,4
+13-May-19,Louisiana,0,4
+13-May-19,Missouri,4,1
+11-May-19,Pennsylvania,0,4
+10-May-19,Pennsylvania,0,5
+10-May-19,Missouri,0,6
+8-May-19,Indiana,0,4
+7-May-19,Colorado,1,8
+5-May-19,New Jersey,1,4
+5-May-19,California,0,6
+4-May-19,Missouri,1,4
+4-May-19,Indiana,0,4
+4-May-19,California,1,4
+4-May-19,Delaware,0,4
+3-May-19,Texas,1,3
+3-May-19,Maryland,0,5
+3-May-19,Maryland,0,4
+1-May-19,Massachusetts,1,3
+30-Apr-19,North Carolina,2,4
+28-Apr-19,Tennessee,0,7
+28-Apr-19,Alabama,0,4
+28-Apr-19,Ohio,4,0
+28-Apr-19,Maryland,1,7
+27-Apr-19,Mississippi,1,3
+27-Apr-19,California,1,3
+27-Apr-19,California,0,6
+21-Apr-19,Pennsylvania,0,4
+20-Apr-19,Tennessee,0,6
+19-Apr-19,Kansas,0,4
+18-Apr-19,Kentucky,0,4
+16-Apr-19,Maryland,1,3
+14-Apr-19,Florida,2,2
+14-Apr-19,California,1,3
+14-Apr-19,California,0,4
+13-Apr-19,California,0,4
+12-Apr-19,Illinois,0,4
+11-Apr-19,Maryland,1,3
+11-Apr-19,California,1,4
+11-Apr-19,Arizona,3,2
+9-Apr-19,Missouri,1,3
+7-Apr-19,North Carolina,0,7
+7-Apr-19,Indiana,2,2
+7-Apr-19,Delaware,0,6
+7-Apr-19,Louisiana,0,4
+6-Apr-19,Florida,0,4
+6-Apr-19,Illinois,0,6
+4-Apr-19,Florida,1,3
+4-Apr-19,Georgia,3,2
+2-Apr-19,Mississippi,0,4
+2-Apr-19,Kentucky,0,5
+31-Mar-19,Georgia,1,4
+31-Mar-19,South Carolina,0,7
+31-Mar-19,Illinois,1,4
+28-Mar-19,Maryland,0,4
+25-Mar-19,Nevada,0,5
+24-Mar-19,California,1,5
+24-Mar-19,Arizona,0,7
+19-Mar-19,Arizona,2,4
+17-Mar-19,Georgia,0,4
+17-Mar-19,Georgia,1,3
+17-Mar-19,Nevada,0,4
+16-Mar-19,New Jersey,1,3
+15-Mar-19,Alabama,2,4
+14-Mar-19,Montana,1,3
+11-Mar-19,New Jersey,0,4
+10-Mar-19,Louisiana,0,4
+10-Mar-19,Colorado,1,4
+3-Mar-19,California,0,4
+3-Mar-19,Illinois,0,6
+2-Mar-19,Arkansas,1,4
+28-Feb-19,California,1,3
+22-Feb-19,Alabama,2,2
+21-Feb-19,Maryland,1,4
+21-Feb-19,Kentucky,2,2
+21-Feb-19,Texas,2,2
+20-Feb-19,Tennessee,0,4
+17-Feb-19,Texas,2,2
+17-Feb-19,Indiana,0,5
+17-Feb-19,Louisiana,1,5
+16-Feb-19,Mississippi,5,0
+15-Feb-19,Illinois,6,6
+11-Feb-19,Texas,5,0
+9-Feb-19,Virginia,0,4
+6-Feb-19,New York,1,3
+5-Feb-19,Texas,2,2
+4-Feb-19,District of Columbia,0,5
+4-Feb-19,Louisiana,0,4
+3-Feb-19,Illinois,2,5
+3-Feb-19,California,4,0
+1-Feb-19,California,0,4
+28-Jan-19,Texas,2,5
+27-Jan-19,Alabama,0,5
+26-Jan-19,Georgia,0,4
+26-Jan-19,Louisiana,5,0
+26-Jan-19,Indiana,0,5
+26-Jan-19,New Jersey,1,3
+24-Jan-19,Pennsylvania,4,1
+24-Jan-19,Georgia,4,1
+23-Jan-19,Florida,5,0
+20-Jan-19,Florida,0,4
+19-Jan-19,Pennsylvania,0,4
+19-Jan-19,South Carolina,1,4
+19-Jan-19,Illinois,0,4
+19-Jan-19,Florida,3,2
+19-Jan-19,Texas,3,2
+17-Jan-19,Kentucky,3,1
+16-Jan-19,Florida,1,5
+16-Jan-19,California,3,1
+15-Jan-19,Arkansas,1,4
+13-Jan-19,Arizona,1,5
+6-Jan-19,New Mexico,0,4
+4-Jan-19,California,3,4
+4-Jan-19,Virginia,3,2
+3-Jan-19,Arizona,1,3
+2-Jan-19,Arkansas,1,3
+1-Jan-19,South Carolina,0,5
+1-Jan-19,Florida,0,5
+31-Dec-18,Ohio,3,2
+29-Dec-18,Ohio,1,3
+28-Dec-18,Missouri,4,1
+24-Dec-18,Louisiana,2,2
+23-Dec-18,Missouri,1,6
+22-Dec-18,Nevada,0,4
+18-Dec-18,Maryland,0,5
+15-Dec-18,Florida,0,5
+14-Dec-18,Colorado,1,3
+13-Dec-18,Pennsylvania,0,4
+11-Dec-18,Louisiana,1,3
+9-Dec-18,Wisconsin,0,4
+8-Dec-18,California,0,5
+8-Dec-18,New York,0,5
+1-Dec-18,Florida,0,5
+26-Nov-18,Tennessee,0,4
+25-Nov-18,Alabama,2,2
+25-Nov-18,California,0,4
+25-Nov-18,Texas,1,3
+23-Nov-18,Florida,2,5
+22-Nov-18,Indiana,3,2
+21-Nov-18,Missouri,0,4
+19-Nov-18,Colorado,1,4
+19-Nov-18,Pennsylvania,4,0
+18-Nov-18,California,1,4
+16-Nov-18,Arkansas,3,1
+14-Nov-18,Louisiana,3,1
+13-Nov-18,New Mexico,4,1
+12-Nov-18,North Carolina,3,1
+11-Nov-18,Arizona,3,1
+7-Nov-18,California,13,2
+3-Nov-18,New York,0,5
+2-Nov-18,California,0,4
+2-Nov-18,Florida,3,4
+1-Nov-18,Minnesota,0,5
+1-Nov-18,Missouri,3,2
+31-Oct-18,Michigan,1,3
+30-Oct-18,California,2,3
+30-Oct-18,California,0,5
+29-Oct-18,California,0,7
+28-Oct-18,Arkansas,2,2
+27-Oct-18,Tennessee,0,5
+27-Oct-18,Pennsylvania,11,7
+26-Oct-18,New Jersey,1,3
+24-Oct-18,Illinois,0,5
+22-Oct-18,Illinois,0,6
+21-Oct-18,Florida,1,5
+21-Oct-18,Washington,1,3
+16-Oct-18,Georgia,0,4
+15-Oct-18,Tennessee,5,0
+14-Oct-18,Texas,0,4
+14-Oct-18,Nevada,3,1
+14-Oct-18,California,2,2
+13-Oct-18,Texas,4,1
+13-Oct-18,Missouri,0,4
+12-Oct-18,South Carolina,0,6
+12-Oct-18,Nevada,0,4
+8-Oct-18,Alabama,0,4
+6-Oct-18,Oklahoma,0,4
+6-Oct-18,Texas,1,3
+6-Oct-18,California,0,6
+4-Oct-18,Georgia,0,4
+4-Oct-18,New Mexico,1,3
+3-Oct-18,South Carolina,2,6
+3-Oct-18,Pennsylvania,1,4
+1-Oct-18,Illinois,2,2
+30-Sep-18,California,1,3
+29-Sep-18,Florida,1,4
+28-Sep-18,Pennsylvania,2,2
+24-Sep-18,Tennessee,3,2
+23-Sep-18,California,1,4
+23-Sep-18,California,0,4
+22-Sep-18,New York,0,4
+21-Sep-18,District of Columbia,0,4
+20-Sep-18,Maryland,4,3
+20-Sep-18,New York,0,5
+19-Sep-18,Wisconsin,1,4
+19-Sep-18,Illinois,0,4
+19-Sep-18,Pennsylvania,1,4
+18-Sep-18,Louisiana,0,4
+18-Sep-18,Tennessee,0,4
+17-Sep-18,Maryland,4,1
+15-Sep-18,Wisconsin,0,4
+12-Sep-18,California,6,0
+11-Sep-18,Illinois,0,4
+10-Sep-18,Tennessee,0,5
+9-Sep-18,Illinois,1,3
+9-Sep-18,Alabama,1,4
+9-Sep-18,Florida,0,4
+7-Sep-18,Minnesota,1,3
+6-Sep-18,Ohio,4,2
+4-Sep-18,Georgia,0,4
+2-Sep-18,Texas,0,4
+2-Sep-18,New Jersey,2,2
+2-Sep-18,Alabama,0,7
+2-Sep-18,Arkansas,0,4
+2-Sep-18,California,0,8
+2-Sep-18,New Jersey,0,4
+1-Sep-18,Florida,1,3
+1-Sep-18,Ohio,1,7
+31-Aug-18,Colorado,2,3
+27-Aug-18,Arkansas,1,3
+26-Aug-18,Florida,3,9
+25-Aug-18,Virginia,0,5
+25-Aug-18,Tennessee,1,4
+23-Aug-18,Pennsylvania,0,4
+23-Aug-18,Maryland,0,4
+22-Aug-18,Missouri,0,4
+21-Aug-18,Tennessee,0,4
+20-Aug-18,Tennessee,1,4
+20-Aug-18,Ohio,1,3
+19-Aug-18,Illinois,0,5
+18-Aug-18,New York,0,4
+17-Aug-18,Illinois,0,7
+15-Aug-18,South Carolina,0,5
+14-Aug-18,Pennsylvania,0,5
+12-Aug-18,California,4,1
+12-Aug-18,Pennsylvania,0,4
+11-Aug-18,California,1,4
+11-Aug-18,Colorado,1,3
+11-Aug-18,Ohio,0,4
+10-Aug-18,Missouri,0,4
+10-Aug-18,Michigan,0,4
+8-Aug-18,New Jersey,0,4
+8-Aug-18,Pennsylvania,2,4
+5-Aug-18,Illinois,1,4
+5-Aug-18,Illinois,1,5
+5-Aug-18,Illinois,0,8
+5-Aug-18,Illinois,0,4
+5-Aug-18,Illinois,0,4
+4-Aug-18,Nevada,0,6
+4-Aug-18,Missouri,0,6
+4-Aug-18,Illinois,1,3
+4-Aug-18,Wisconsin,0,4
+31-Jul-18,California,2,3
+30-Jul-18,Georgia,0,4
+30-Jul-18,Illinois,0,4
+29-Jul-18,Pennsylvania,0,4
+29-Jul-18,Arizona,1,4
+29-Jul-18,Michigan,0,4
+28-Jul-18,Louisiana,3,7
+28-Jul-18,California,2,4
+27-Jul-18,Texas,5,0
+27-Jul-18,Illinois,0,4
+26-Jul-18,Ohio,1,6
+26-Jul-18,California,2,2
+26-Jul-18,Texas,0,6
+25-Jul-18,Louisiana,0,4
+23-Jul-18,Illinois,0,5
+21-Jul-18,Maryland,0,4
+21-Jul-18,Illinois,2,5
+20-Jul-18,Washington,1,4
+20-Jul-18,New Jersey,0,4
+18-Jul-18,Oklahoma,0,4
+16-Jul-18,Florida,2,4
+16-Jul-18,District of Columbia,1,4
+16-Jul-18,Pennsylvania,1,4
+15-Jul-18,Colorado,0,4
+15-Jul-18,Tennessee,0,5
+14-Jul-18,Maryland,0,4
+13-Jul-18,Virginia,1,3
+12-Jul-18,Tennessee,0,5
+11-Jul-18,Texas,0,4
+11-Jul-18,Florida,0,4
+9-Jul-18,Florida,1,4
+9-Jul-18,Delaware,5,0
+8-Jul-18,Alabama,0,6
+8-Jul-18,Tennessee,0,4
+7-Jul-18,Alabama,3,2
+5-Jul-18,New York,0,4
+5-Jul-18,New York,0,4
+5-Jul-18,California,3,3
+5-Jul-18,Virginia,0,6
+5-Jul-18,Ohio,1,5
+4-Jul-18,Georgia,1,3
+3-Jul-18,Missouri,1,5
+3-Jul-18,District of Columbia,0,4
+2-Jul-18,New York,2,2
+1-Jul-18,Illinois,0,6
+30-Jun-18,Maryland,0,6
+30-Jun-18,Georgia,1,6
+30-Jun-18,New Jersey,0,5
+28-Jun-18,Maryland,5,0
+27-Jun-18,California,1,3
+27-Jun-18,Texas,0,4
+27-Jun-18,Connecticut,0,4
+25-Jun-18,Illinois,0,6
+24-Jun-18,North Carolina,1,6
+24-Jun-18,Florida,0,4
+24-Jun-18,Florida,0,4
+24-Jun-18,Florida,1,3
+24-Jun-18,Indiana,1,3
+24-Jun-18,Ohio,0,5
+23-Jun-18,Kansas,0,4
+23-Jun-18,Illinois,1,4
+23-Jun-18,Tennessee,0,4
+22-Jun-18,Pennsylvania,1,3
+21-Jun-18,California,1,3
+21-Jun-18,Louisiana,0,4
+21-Jun-18,Illinois,0,4
+20-Jun-18,California,0,5
+19-Jun-18,Alabama,0,4
+18-Jun-18,Illinois,3,1
+18-Jun-18,Illinois,2,3
+17-Jun-18,North Carolina,0,4
+17-Jun-18,New Jersey,1,19
+17-Jun-18,Georgia,1,3
+17-Jun-18,Illinois,0,4
+14-Jun-18,California,0,5
+14-Jun-18,New York,1,4
+14-Jun-18,California,1,4
+14-Jun-18,Colorado,1,3
+14-Jun-18,Pennsylvania,0,4
+12-Jun-18,New York,0,4
+11-Jun-18,Alabama,0,4
+11-Jun-18,Florida,6,0
+10-Jun-18,California,0,6
+10-Jun-18,Indiana,1,4
+10-Jun-18,Illinois,0,7
+10-Jun-18,Florida,1,5
+10-Jun-18,Illinois,1,5
+10-Jun-18,Illinois,2,2
+9-Jun-18,North Carolina,0,4
+9-Jun-18,Massachusetts,0,4
+9-Jun-18,Pennsylvania,1,4
+5-Jun-18,Florida,3,1
+3-Jun-18,Texas,0,5
+3-Jun-18,Illinois,1,3
+2-Jun-18,Nebraska,1,6
+2-Jun-18,New York,0,5
+31-May-18,South Carolina,3,2
+27-May-18,Louisiana,0,4
+27-May-18,Colorado,1,3
+25-May-18,Ohio,0,4
+20-May-18,Indiana,0,4
+20-May-18,Mississippi,1,7
+18-May-18,Texas,10,13
+16-May-18,Texas,5,1
+14-May-18,Maryland,0,4
+13-May-18,California,2,2
+13-May-18,California,3,2
+13-May-18,Mississippi,0,4
+12-May-18,Nebraska,0,6
+12-May-18,New Jersey,0,4
+11-May-18,Missouri,0,4
+11-May-18,Oklahoma,1,4
+9-May-18,Missouri,0,4
+9-May-18,Nebraska,0,4
+7-May-18,California,0,5
+6-May-18,Oklahoma,0,4
+6-May-18,Tennessee,2,4
+5-May-18,Georgia,0,5
+4-May-18,North Carolina,0,4
+4-May-18,Illinois,0,4
+2-May-18,Illinois,1,4
+2-May-18,Minnesota,0,5
+2-May-18,New York,1,4
+1-May-18,Louisiana,0,5
+30-Apr-18,Florida,0,4
+30-Apr-18,District of Columbia,0,4
+29-Apr-18,Tennessee,0,4
+29-Apr-18,Washington,2,2
+29-Apr-18,North Carolina,1,3
+29-Apr-18,Florida,1,3
+28-Apr-18,North Carolina,0,5
+25-Apr-18,Arkansas,0,4
+25-Apr-18,Missouri,3,1
+24-Apr-18,Michigan,0,4
+22-Apr-18,Tennessee,4,3
+22-Apr-18,Louisiana,2,4
+21-Apr-18,Pennsylvania,2,2
+20-Apr-18,California,1,5
+18-Apr-18,North Carolina,4,3
+15-Apr-18,Louisiana,0,6
+9-Apr-18,California,0,4
+8-Apr-18,North Carolina,1,3
+8-Apr-18,Florida,2,2
+6-Apr-18,Florida,0,4
+6-Apr-18,Virginia,1,3
+4-Apr-18,Louisiana,2,2
+2-Apr-18,Texas,1,3
+1-Apr-18,Michigan,0,5
+1-Apr-18,Alabama,1,4
+31-Mar-18,New Jersey,0,5
+29-Mar-18,Texas,1,3
+29-Mar-18,New Jersey,0,4
+24-Mar-18,Utah,0,4
+21-Mar-18,California,1,5
+17-Mar-18,Kentucky,0,7
+17-Mar-18,Illinois,0,4
+13-Mar-18,Florida,0,4
+12-Mar-18,California,0,4
+11-Mar-18,Indiana,0,6
+11-Mar-18,Illinois,1,3
+11-Mar-18,Michigan,1,4
+9-Mar-18,North Carolina,3,1
+7-Mar-18,Alabama,2,2
+4-Mar-18,Illinois,1,4
+3-Mar-18,New York,1,3
+3-Mar-18,Florida,0,4
+27-Feb-18,Connecticut,0,4
+26-Feb-18,Michigan,5,0
+23-Feb-18,Florida,1,3
+18-Feb-18,Texas,0,5
+17-Feb-18,Kansas,1,7
+17-Feb-18,Tennessee,0,5
+16-Feb-18,Oklahoma,1,3
+14-Feb-18,Florida,17,17
+13-Feb-18,Louisiana,2,3
+11-Feb-18,Michigan,4,3
+10-Feb-18,Kentucky,5,0
+7-Feb-18,Florida,3,3
+5-Feb-18,Colorado,2,4
+3-Feb-18,Ohio,1,5
+31-Jan-18,Missouri,0,4
+28-Jan-18,Pennsylvania,5,0
+28-Jan-18,Indiana,2,3
+28-Jan-18,Pennsylvania,4,0
+27-Jan-18,Kentucky,0,4
+27-Jan-18,California,0,5
+25-Jan-18,District of Columbia,0,4
+23-Jan-18,Kentucky,2,14
+23-Jan-18,Pennsylvania,0,4
+21-Jan-18,Florida,0,4
+21-Jan-18,Illinois,0,4
+17-Jan-18,District of Columbia,1,3
+15-Jan-18,Florida,0,5
+14-Jan-18,Alabama,1,4
+14-Jan-18,Alabama,0,4
+12-Jan-18,Tennessee,3,2
+11-Jan-18,Missouri,2,2
+7-Jan-18,Alabama,1,5
+7-Jan-18,Florida,0,4
+5-Jan-18,Mississippi,0,6
+4-Jan-18,Arkansas,1,3
+1-Jan-18,Alabama,1,3
+31-Dec-17,Colorado,2,6
+31-Dec-17,Illinois,0,4
+31-Dec-17,New Jersey,4,0
+27-Dec-17,Nevada,2,2
+26-Dec-17,Florida,0,5
+24-Dec-17,Mississippi,0,5
+24-Dec-17,Alabama,1,4
+23-Dec-17,Louisiana,1,3
+23-Dec-17,Alabama,0,4
+21-Dec-17,Pennsylvania,1,3
+21-Dec-17,Louisiana,0,4
+16-Dec-17,Mississippi,0,4
+15-Dec-17,California,0,5
+13-Dec-17,Ohio,1,3
+12-Dec-17,Kentucky,0,4
+12-Dec-17,Texas,0,4
+9-Dec-17,Massachusetts,0,4
+6-Dec-17,Illinois,0,4
+4-Dec-17,Pennsylvania,2,2
+3-Dec-17,Tennessee,1,3
+2-Dec-17,Michigan,0,4
+30-Nov-17,Michigan,1,4
+24-Nov-17,Mississippi,1,6
+24-Nov-17,Ohio,1,5
+18-Nov-17,Minnesota,0,4
+17-Nov-17,Louisiana,0,4
+16-Nov-17,Georgia,0,7
+14-Nov-17,California,2,2
+14-Nov-17,California,6,12
+12-Nov-17,Indiana,0,7
+12-Nov-17,California,0,5
+12-Nov-17,Georgia,2,2
+11-Nov-17,Texas,1,3
+11-Nov-17,North Carolina,1,5
+11-Nov-17,Louisiana,1,5
+10-Nov-17,Ohio,0,4
+9-Nov-17,Pennsylvania,0,4
+5-Nov-17,Texas,27,20
+4-Nov-17,Texas,0,4
+4-Nov-17,Ohio,0,4
+4-Nov-17,California,1,3
+3-Nov-17,Minnesota,0,4
+3-Nov-17,California,0,4
+3-Nov-17,New York,0,4
+3-Nov-17,Louisiana,1,4
+29-Oct-17,Texas,1,3
+28-Oct-17,Ohio,0,4
+28-Oct-17,Virginia,1,3
+27-Oct-17,Kentucky,0,6
+27-Oct-17,California,0,4
+23-Oct-17,California,2,3
+22-Oct-17,Connecticut,0,4
+22-Oct-17,Alabama,2,7
+21-Oct-17,Florida,0,4
+21-Oct-17,Florida,0,4
+21-Oct-17,Tennessee,0,4
+21-Oct-17,Pennsylvania,0,4
+18-Oct-17,Maryland,3,3
+17-Oct-17,New York,0,4
+16-Oct-17,Mississippi,1,3
+15-Oct-17,Texas,2,2
+15-Oct-17,Arizona,1,3
+12-Oct-17,California,2,2
+11-Oct-17,Ohio,4,0
+10-Oct-17,California,0,4
+9-Oct-17,Texas,0,5
+7-Oct-17,Arizona,0,4
+6-Oct-17,Illinois,0,5
+5-Oct-17,Arizona,4,0
+3-Oct-17,Florida,0,4
+1-Oct-17,Kansas,3,2
+1-Oct-17,Nevada,59,441
+30-Sep-17,Tennessee,1,3
+28-Sep-17,Louisiana,1,3
+26-Sep-17,Pennsylvania,1,3
+26-Sep-17,Tennessee,0,4
+26-Sep-17,Maryland,2,2
+24-Sep-17,Maryland,0,4
+24-Sep-17,Tennessee,1,8
+24-Sep-17,New York,0,4
+24-Sep-17,Pennsylvania,0,4
+24-Sep-17,New Jersey,1,3
+23-Sep-17,California,1,4
+23-Sep-17,Illinois,0,5
+23-Sep-17,Connecticut,2,2
+20-Sep-17,Indiana,0,5
+17-Sep-17,Michigan,1,3
+17-Sep-17,Virginia,1,4
+16-Sep-17,South Carolina,0,8
+15-Sep-17,Illinois,4,0
+13-Sep-17,Tennessee,1,5
+13-Sep-17,Washington,1,3
+13-Sep-17,Pennsylvania,0,4
+13-Sep-17,Pennsylvania,0,4
+10-Sep-17,Texas,9,1
+10-Sep-17,Louisiana,1,3
+9-Sep-17,Alabama,0,4
+6-Sep-17,Illinois,0,4
+4-Sep-17,Illinois,0,4
+3-Sep-17,California,2,3
+2-Sep-17,Kentucky,0,4
+2-Sep-17,Illinois,1,3
+28-Aug-17,New Mexico,2,4
+27-Aug-17,California,1,4
+27-Aug-17,Indiana,1,3
+25-Aug-17,Florida,0,4
+24-Aug-17,Missouri,4,0
+22-Aug-17,Illinois,0,4
+21-Aug-17,New Jersey,0,4
+21-Aug-17,New Jersey,1,3
+21-Aug-17,North Carolina,4,0
+21-Aug-17,Maryland,1,3
+21-Aug-17,Tennessee,0,4
+20-Aug-17,New York,0,4
+20-Aug-17,Illinois,2,5
+19-Aug-17,Ohio,1,4
+16-Aug-17,New York,0,4
+14-Aug-17,California,2,2
+13-Aug-17,Pennsylvania,0,5
+13-Aug-17,California,0,4
+13-Aug-17,Virginia,0,4
+12-Aug-17,Missouri,1,3
+8-Aug-17,Illinois,1,6
+6-Aug-17,New York,0,6
+6-Aug-17,New York,0,4
+6-Aug-17,California,0,7
+5-Aug-17,New Jersey,0,4
+5-Aug-17,South Carolina,1,3
+5-Aug-17,Florida,1,3
+4-Aug-17,Montana,3,2
+3-Aug-17,District of Columbia,1,3
+2-Aug-17,Maryland,0,4
+1-Aug-17,Illinois,0,4
+1-Aug-17,Washington,0,6
+1-Aug-17,California,0,7
+31-Jul-17,Illinois,0,4
+30-Jul-17,Texas,1,3
+30-Jul-17,Virginia,1,5
+29-Jul-17,New York,1,4
+29-Jul-17,North Carolina,2,3
+28-Jul-17,Delaware,0,4
+27-Jul-17,Illinois,1,4
+26-Jul-17,North Carolina,1,6
+25-Jul-17,Florida,1,3
+23-Jul-17,Illinois,1,3
+23-Jul-17,Louisiana,0,4
+22-Jul-17,Ohio,0,5
+19-Jul-17,Virginia,0,5
+19-Jul-17,California,1,3
+18-Jul-17,Wisconsin,0,4
+18-Jul-17,New Jersey,1,3
+18-Jul-17,Arizona,0,4
+15-Jul-17,Pennsylvania,1,3
+15-Jul-17,Illinois,0,4
+9-Jul-17,Virginia,0,7
+8-Jul-17,Illinois,0,4
+8-Jul-17,Ohio,1,8
+6-Jul-17,Mississippi,0,4
+5-Jul-17,Georgia,0,4
+5-Jul-17,Illinois,2,2
+5-Jul-17,Maine,4,1
+4-Jul-17,Florida,0,4
+4-Jul-17,Virginia,1,4
+4-Jul-17,North Carolina,1,3
+3-Jul-17,Alabama,3,1
+3-Jul-17,Michigan,1,3
+2-Jul-17,New Jersey,0,4
+2-Jul-17,South Carolina,0,4
+1-Jul-17,Arkansas,0,25
+1-Jul-17,Illinois,0,4
+1-Jul-17,New Jersey,2,2
+1-Jul-17,California,0,4
+30-Jun-17,New York,2,6
+27-Jun-17,Illinois,0,5
+25-Jun-17,District of Columbia,0,4
+25-Jun-17,Missouri,1,3
+24-Jun-17,Florida,1,4
+24-Jun-17,New York,0,5
+24-Jun-17,New Jersey,0,4
+22-Jun-17,Georgia,1,6
+18-Jun-17,Missouri,3,2
+18-Jun-17,District of Columbia,0,4
+18-Jun-17,Illinois,0,4
+18-Jun-17,South Carolina,0,7
+17-Jun-17,Illinois,0,4
+17-Jun-17,Ohio,1,4
+15-Jun-17,Virginia,1,3
+15-Jun-17,New Mexico,5,0
+14-Jun-17,Virginia,1,5
+14-Jun-17,Ohio,0,4
+14-Jun-17,California,4,2
+13-Jun-17,Maryland,0,4
+13-Jun-17,Maryland,2,2
+13-Jun-17,Missouri,0,4
+11-Jun-17,Illinois,0,9
+11-Jun-17,Tennessee,0,4
+11-Jun-17,Texas,0,4
+10-Jun-17,Tennessee,0,4
+9-Jun-17,Texas,2,5
+8-Jun-17,Louisiana,0,6
+6-Jun-17,Utah,3,2
+5-Jun-17,Florida,6,0
+3-Jun-17,Missouri,2,2
+3-Jun-17,Louisiana,3,2
+2-Jun-17,California,1,3
+2-Jun-17,Texas,2,3
+1-Jun-17,Missouri,3,1
+30-May-17,Ohio,1,3
+29-May-17,Kentucky,1,3
+28-May-17,Alabama,0,12
+28-May-17,New Jersey,1,5
+28-May-17,Mississippi,0,5
+27-May-17,New York,0,4
+27-May-17,Mississippi,8,1
+27-May-17,District of Columbia,1,7
+26-May-17,Florida,0,4
+21-May-17,Iowa,1,3
+21-May-17,Arizona,0,4
+20-May-17,Pennsylvania,0,10
+16-May-17,South Carolina,3,1
+14-May-17,Arkansas,1,6
+14-May-17,Illinois,0,5
+14-May-17,Florida,0,5
+14-May-17,Texas,0,4
+10-May-17,New Jersey,1,3
+9-May-17,Kansas,3,1
+7-May-17,Illinois,2,8
+4-May-17,Michigan,1,3
+2-May-17,Florida,1,3
+1-May-17,Texas,2,3
+30-Apr-17,California,2,6
+30-Apr-17,Kansas,4,1
+30-Apr-17,Florida,0,5
+30-Apr-17,South Carolina,1,5
+29-Apr-17,California,1,3
+29-Apr-17,California,0,5
+29-Apr-17,California,1,5
+29-Apr-17,Maryland,1,3
+29-Apr-17,California,0,4
+29-Apr-17,Virginia,0,4
+28-Apr-17,Pennsylvania,0,4
+27-Apr-17,New Jersey,1,3
+26-Apr-17,Florida,0,4
+21-Apr-17,Florida,2,2
+20-Apr-17,Kentucky,0,4
+16-Apr-17,California,0,4
+16-Apr-17,North Carolina,0,4
+16-Apr-17,Ohio,0,9
+15-Apr-17,Illinois,0,4
+15-Apr-17,Pennsylvania,0,4
+15-Apr-17,Indiana,0,4
+15-Apr-17,Alabama,0,6
+15-Apr-17,Illinois,0,4
+15-Apr-17,California,0,4
+13-Apr-17,Georgia,1,3
+9-Apr-17,Texas,1,3
+9-Apr-17,Indiana,1,3
+7-Apr-17,North Carolina,3,1
+7-Apr-17,Texas,5,0
+7-Apr-17,Minnesota,4,1
+7-Apr-17,Illinois,1,5
+6-Apr-17,Louisiana,1,3
+3-Apr-17,Pennsylvania,3,1
+3-Apr-17,Texas,0,7
+2-Apr-17,Illinois,2,4
+2-Apr-17,Iowa,0,5
+1-Apr-17,California,0,5
+1-Apr-17,Florida,1,4
+1-Apr-17,Oklahoma,2,3
+30-Mar-17,Illinois,4,0
+27-Mar-17,Florida,2,4
+26-Mar-17,Ohio,2,2
+26-Mar-17,Texas,2,4
+26-Mar-17,Ohio,2,15
+25-Mar-17,Tennessee,1,4
+25-Mar-17,Michigan,1,3
+25-Mar-17,Ohio,2,2
+24-Mar-17,California,1,4
+24-Mar-17,Missouri,1,6
+22-Mar-17,Wisconsin,5,0
+19-Mar-17,Kentucky,1,5
+18-Mar-17,Michigan,3,2
+15-Mar-17,Louisiana,3,1
+10-Mar-17,Illinois,2,2
+10-Mar-17,Louisiana,3,1
+7-Mar-17,Illinois,0,4
+5-Mar-17,Georgia,0,4
+4-Mar-17,Kansas,1,4
+4-Mar-17,California,0,4
+3-Mar-17,Pennsylvania,0,4
+3-Mar-17,California,0,5
+28-Feb-17,Ohio,0,6
+27-Feb-17,Virginia,0,4
+26-Feb-17,Indiana,1,4
+25-Feb-17,Ohio,2,3
+25-Feb-17,Florida,1,4
+22-Feb-17,New York,0,4
+21-Feb-17,Ohio,0,4
+21-Feb-17,Mississippi,4,0
+20-Feb-17,Ohio,0,5
+19-Feb-17,Virginia,1,3
+18-Feb-17,Pennsylvania,0,4
+18-Feb-17,Indiana,1,3
+15-Feb-17,California,0,4
+15-Feb-17,Illinois,3,2
+12-Feb-17,Missouri,1,6
+12-Feb-17,New York,1,3
+12-Feb-17,Florida,0,5
+11-Feb-17,Illinois,1,3
+11-Feb-17,Tennessee,0,4
+10-Feb-17,Louisiana,1,5
+9-Feb-17,Mississippi,4,0
+8-Feb-17,Ohio,1,4
+7-Feb-17,South Carolina,0,4
+7-Feb-17,Arkansas,1,4
+6-Feb-17,Mississippi,4,0
+31-Jan-17,Tennessee,0,4
+31-Jan-17,District of Columbia,0,4
+30-Jan-17,Minnesota,0,4
+29-Jan-17,Louisiana,1,4
+27-Jan-17,Washington,4,0
+27-Jan-17,Tennessee,0,10
+26-Jan-17,Georgia,2,3
+25-Jan-17,Illinois,0,6
+22-Jan-17,Texas,3,2
+22-Jan-17,Illinois,0,4
+22-Jan-17,Georgia,3,1
+21-Jan-17,Georgia,0,6
+21-Jan-17,Florida,0,5
+21-Jan-17,Tennessee,2,2
+20-Jan-17,Mississippi,1,4
+20-Jan-17,California,0,4
+16-Jan-17,Texas,0,4
+16-Jan-17,Florida,0,8
+15-Jan-17,Colorado,3,1
+15-Jan-17,Mississippi,1,4
+12-Jan-17,Missouri,3,2
+12-Jan-17,California,2,2
+11-Jan-17,New Jersey,1,3
+11-Jan-17,Illinois,1,3
+7-Jan-17,Michigan,1,3
+6-Jan-17,California,2,2
+6-Jan-17,Florida,5,6
+4-Jan-17,California,3,1
+3-Jan-17,Texas,0,4
+1-Jan-17,Mississippi,0,5
+1-Jan-17,Texas,1,3
+1-Jan-17,Florida,0,7
+31-Dec-16,Georgia,2,2
+31-Dec-16,Texas,1,3
+30-Dec-16,Ohio,0,5
+30-Dec-16,Connecticut,2,3
+28-Dec-16,Georgia,1,4
+25-Dec-16,Illinois,3,4
+25-Dec-16,Alabama,0,4
+25-Dec-16,New York,1,5
+24-Dec-16,North Carolina,0,7
+24-Dec-16,North Carolina,4,0
+23-Dec-16,Alabama,1,3
+23-Dec-16,Illinois,0,4
+17-Dec-16,Illinois,5,0
+17-Dec-16,North Carolina,0,4
+16-Dec-16,Illinois,0,4
+16-Dec-16,Illinois,2,2
+12-Dec-16,California,1,3
+11-Dec-16,New York,0,4
+11-Dec-16,Florida,1,4
+11-Dec-16,Maryland,0,5
+11-Dec-16,North Carolina,0,4
+9-Dec-16,Texas,4,0
+9-Dec-16,California,0,4
+5-Dec-16,New Mexico,4,1
+3-Dec-16,California,0,6
+2-Dec-16,New Jersey,0,6
+1-Dec-16,California,1,3
+30-Nov-16,Maryland,2,4
+28-Nov-16,Texas,1,3
+28-Nov-16,California,0,4
+28-Nov-16,California,0,4
+27-Nov-16,Louisiana,1,9
+27-Nov-16,Missouri,0,7
+26-Nov-16,Illinois,1,5
+25-Nov-16,Louisiana,0,4
+24-Nov-16,Kentucky,2,4
+24-Nov-16,New York,1,3
+23-Nov-16,Mississippi,0,4
+22-Nov-16,Florida,1,4
+18-Nov-16,Illinois,0,4
+17-Nov-16,Tennessee,1,7
+13-Nov-16,Florida,3,2
+13-Nov-16,Texas,0,4
+13-Nov-16,California,3,2
+13-Nov-16,Florida,0,4
+12-Nov-16,California,1,5
+12-Nov-16,Missouri,1,3
+12-Nov-16,Connecticut,0,5
+11-Nov-16,Texas,0,4
+10-Nov-16,Texas,1,3
+9-Nov-16,Washington,0,5
+9-Nov-16,Illinois,1,3
+9-Nov-16,Tennessee,0,4
+5-Nov-16,Texas,0,4
+5-Nov-16,South Carolina,0,5
+5-Nov-16,Florida,1,3
+5-Nov-16,California,0,8
+5-Nov-16,Illinois,0,5
+4-Nov-16,Pennsylvania,0,4
+3-Nov-16,Illinois,2,2
+3-Nov-16,New Jersey,2,2
+2-Nov-16,Arkansas,1,4
+1-Nov-16,Tennessee,1,5
+31-Oct-16,Louisiana,0,4
+30-Oct-16,Ohio,0,4
+30-Oct-16,Maryland,3,3
+30-Oct-16,New York,0,4
+30-Oct-16,New York,2,5
+30-Oct-16,Texas,0,5
+29-Oct-16,California,0,5
+29-Oct-16,Ohio,1,3
+29-Oct-16,California,0,4
+28-Oct-16,Mississippi,0,6
+28-Oct-16,Florida,0,4
+27-Oct-16,Georgia,4,0
+25-Oct-16,Ohio,1,3
+25-Oct-16,Virginia,2,3
+23-Oct-16,Oklahoma,1,5
+22-Oct-16,California,0,7
+18-Oct-16,California,0,4
+17-Oct-16,Illinois,1,4
+15-Oct-16,Alabama,0,5
+15-Oct-16,Illinois,1,5
+15-Oct-16,California,4,11
+14-Oct-16,Illinois,1,6
+13-Oct-16,Illinois,0,4
+9-Oct-16,Michigan,1,8
+9-Oct-16,California,1,3
+8-Oct-16,New York,0,4
+4-Oct-16,Louisiana,3,2
+3-Oct-16,Minnesota,0,4
+2-Oct-16,Texas,1,4
+1-Oct-16,Illinois,4,0
+1-Oct-16,California,0,4
+29-Sep-16,California,1,3
+26-Sep-16,North Carolina,0,4
+26-Sep-16,Texas,0,4
+26-Sep-16,Texas,1,6
+25-Sep-16,Illinois,1,3
+24-Sep-16,Maryland,0,8
+23-Sep-16,Washington,5,0
+18-Sep-16,Pennsylvania,0,4
+18-Sep-16,Pennsylvania,0,4
+18-Sep-16,Virginia,1,3
+17-Sep-16,District of Columbia,2,7
+17-Sep-16,Florida,0,6
+17-Sep-16,Florida,1,6
+17-Sep-16,Indiana,2,2
+16-Sep-16,California,2,2
+16-Sep-16,Pennsylvania,2,5
+14-Sep-16,Texas,1,3
+13-Sep-16,Indiana,3,2
+11-Sep-16,Louisiana,1,5
+11-Sep-16,Missouri,0,6
+11-Sep-16,Michigan,0,5
+11-Sep-16,North Carolina,0,5
+11-Sep-16,Indiana,3,1
+11-Sep-16,New Jersey,1,3
+10-Sep-16,Florida,1,3
+8-Sep-16,Texas,4,0
+8-Sep-16,Arkansas,1,4
+5-Sep-16,Illinois,2,3
+5-Sep-16,Pennsylvania,0,4
+4-Sep-16,Virginia,1,10
+3-Sep-16,North Carolina,1,3
+3-Sep-16,Illinois,0,4
+30-Aug-16,Georgia,0,4
+30-Aug-16,Illinois,0,4
+29-Aug-16,New Jersey,1,5
+28-Aug-16,Texas,0,6
+28-Aug-16,New York,0,4
+28-Aug-16,Missouri,2,2
+28-Aug-16,Alabama,0,5
+27-Aug-16,Alabama,1,6
+27-Aug-16,Florida,2,4
+25-Aug-16,New Jersey,0,5
+21-Aug-16,Massachusetts,0,4
+21-Aug-16,Connecticut,0,13
+20-Aug-16,Connecticut,0,4
+20-Aug-16,Washington,0,5
+20-Aug-16,Alabama,5,0
+18-Aug-16,Connecticut,0,4
+17-Aug-16,California,0,4
+14-Aug-16,Virginia,0,4
+14-Aug-16,Minnesota,0,5
+13-Aug-16,California,0,4
+13-Aug-16,Wisconsin,2,2
+13-Aug-16,New York,0,4
+13-Aug-16,Missouri,0,4
+12-Aug-16,Florida,1,3
+12-Aug-16,Texas,1,3
+11-Aug-16,Pennsylvania,0,4
+10-Aug-16,Illinois,0,4
+10-Aug-16,California,1,3
+8-Aug-16,Florida,0,7
+8-Aug-16,New Mexico,2,2
+7-Aug-16,California,1,3
+7-Aug-16,Colorado,2,2
+7-Aug-16,Mississippi,1,3
+7-Aug-16,Illinois,0,4
+6-Aug-16,Pennsylvania,5,0
+5-Aug-16,Michigan,1,3
+5-Aug-16,California,2,2
+4-Aug-16,Tennessee,0,4
+3-Aug-16,Georgia,1,3
+2-Aug-16,Florida,0,4
+1-Aug-16,Indiana,0,4
+31-Jul-16,Florida,3,1
+31-Jul-16,Texas,1,4
+30-Jul-16,Missouri,0,5
+30-Jul-16,Washington,3,1
+30-Jul-16,Georgia,0,5
+29-Jul-16,Georgia,0,7
+28-Jul-16,New York,0,5
+28-Jul-16,Maryland,0,4
+28-Jul-16,Illinois,2,2
+25-Jul-16,Florida,2,19
+24-Jul-16,Ohio,1,7
+23-Jul-16,South Carolina,0,4
+23-Jul-16,Ohio,2,2
+23-Jul-16,New York,0,4
+23-Jul-16,Texas,4,1
+22-Jul-16,Illinois,0,5
+21-Jul-16,Illinois,0,5
+20-Jul-16,California,0,4
+19-Jul-16,Arkansas,0,4
+17-Jul-16,Louisiana,5,2
+17-Jul-16,Michigan,0,4
+17-Jul-16,Texas,1,3
+16-Jul-16,Texas,0,5
+16-Jul-16,Ohio,0,5
+16-Jul-16,California,1,14
+16-Jul-16,California,0,4
+16-Jul-16,Tennessee,0,6
+15-Jul-16,Washington,3,1
+14-Jul-16,Texas,3,1
+14-Jul-16,California,0,4
+14-Jul-16,Ohio,1,3
+13-Jul-16,Georgia,0,5
+13-Jul-16,Missouri,2,2
+11-Jul-16,Maryland,0,5
+11-Jul-16,Michigan,0,4
+11-Jul-16,Michigan,3,2
+11-Jul-16,District of Columbia,0,4
+7-Jul-16,Louisiana,0,4
+7-Jul-16,Texas,5,9
+7-Jul-16,Tennessee,1,4
+5-Jul-16,California,0,4
+4-Jul-16,New York,0,7
+4-Jul-16,Texas,3,2
+4-Jul-16,Pennsylvania,0,4
+4-Jul-16,Illinois,0,4
+4-Jul-16,Ohio,0,4
+4-Jul-16,Arizona,2,6
+3-Jul-16,Louisiana,2,3
+3-Jul-16,Tennessee,0,4
+30-Jun-16,Illinois,1,4
+29-Jun-16,Nevada,5,0
+28-Jun-16,California,1,3
+28-Jun-16,Illinois,0,4
+27-Jun-16,Oregon,3,1
+26-Jun-16,South Carolina,0,4
+26-Jun-16,North Carolina,0,5
+26-Jun-16,Georgia,1,4
+26-Jun-16,Texas,1,3
+26-Jun-16,Texas,0,4
+25-Jun-16,Texas,2,5
+25-Jun-16,Virginia,0,4
+25-Jun-16,Illinois,0,4
+24-Jun-16,Kansas,0,4
+24-Jun-16,Connecticut,0,5
+24-Jun-16,Maryland,3,2
+22-Jun-16,Georgia,1,3
+22-Jun-16,Washington,3,1
+22-Jun-16,Illinois,0,4
+21-Jun-16,New Jersey,0,4
+21-Jun-16,Kentucky,2,2
+19-Jun-16,Virginia,0,4
+18-Jun-16,Georgia,2,2
+18-Jun-16,Virginia,1,3
+18-Jun-16,Illinois,0,4
+14-Jun-16,California,1,3
+14-Jun-16,Delaware,0,4
+13-Jun-16,California,0,4
+13-Jun-16,New York,0,5
+13-Jun-16,Illinois,0,5
+12-Jun-16,Florida,50,53
+11-Jun-16,Minnesota,0,4
+11-Jun-16,North Carolina,1,3
+11-Jun-16,California,1,3
+11-Jun-16,New Mexico,5,0
+11-Jun-16,California,3,2
+9-Jun-16,Florida,0,4
+8-Jun-16,District of Columbia,0,4
+8-Jun-16,Massachusetts,1,3
+6-Jun-16,California,0,4
+5-Jun-16,Arizona,2,4
+5-Jun-16,Minnesota,0,4
+5-Jun-16,Florida,3,3
+5-Jun-16,New York,0,4
+4-Jun-16,Colorado,3,1
+31-May-16,Illinois,0,4
+31-May-16,Indiana,0,4
+30-May-16,Maryland,0,5
+30-May-16,California,0,5
+29-May-16,Nevada,0,4
+29-May-16,New Jersey,0,6
+29-May-16,Indiana,0,4
+29-May-16,Texas,2,6
+23-May-16,New Jersey,0,5
+22-May-16,Louisiana,0,4
+22-May-16,California,1,3
+22-May-16,Tennessee,0,4
+21-May-16,Georgia,1,3
+18-May-16,Indiana,0,4
+17-May-16,South Carolina,3,1
+15-May-16,Georgia,5,0
+15-May-16,Indiana,0,4
+14-May-16,Georgia,0,5
+14-May-16,West Virginia,1,3
+11-May-16,Alabama,1,4
+11-May-16,Illinois,0,5
+8-May-16,Texas,1,3
+6-May-16,Michigan,1,4
+6-May-16,Alabama,1,3
+6-May-16,Maryland,3,3
+5-May-16,Louisiana,2,6
+5-May-16,Florida,1,3
+4-May-16,Minnesota,1,7
+1-May-16,Tennessee,0,5
+29-Apr-16,California,0,5
+29-Apr-16,Missouri,0,4
+27-Apr-16,Louisiana,2,2
+27-Apr-16,Mississippi,3,1
+26-Apr-16,Maryland,1,4
+25-Apr-16,Tennessee,0,4
+25-Apr-16,Florida,0,5
+24-Apr-16,Virginia,0,5
+24-Apr-16,Illinois,2,3
+24-Apr-16,Colorado,0,4
+23-Apr-16,Nevada,1,3
+23-Apr-16,Alabama,3,1
+23-Apr-16,New York,0,4
+23-Apr-16,Kansas,1,4
+22-Apr-16,Ohio,8,0
+22-Apr-16,Georgia,6,0
+21-Apr-16,Maryland,0,4
+19-Apr-16,Alabama,1,4
+19-Apr-16,Illinois,1,3
+19-Apr-16,Illinois,1,4
+18-Apr-16,California,1,3
+17-Apr-16,Pennsylvania,3,1
+17-Apr-16,South Carolina,1,3
+17-Apr-16,Texas,1,6
+16-Apr-16,Michigan,1,4
+16-Apr-16,Florida,2,4
+16-Apr-16,Alabama,0,4
+10-Apr-16,Wisconsin,1,3
+10-Apr-16,California,0,4
+9-Apr-16,Tennessee,0,4
+9-Apr-16,Alabama,0,4
+9-Apr-16,New Mexico,0,4
+7-Apr-16,Illinois,0,4
+31-Mar-16,Illinois,0,4
+27-Mar-16,Louisiana,0,4
+25-Mar-16,Illinois,0,4
+25-Mar-16,Colorado,0,4
+21-Mar-16,Illinois,0,4
+19-Mar-16,Florida,1,4
+19-Mar-16,Alabama,2,2
+15-Mar-16,Georgia,0,5
+13-Mar-16,Florida,0,4
+12-Mar-16,Oregon,0,4
+12-Mar-16,California,0,4
+11-Mar-16,Michigan,2,2
+11-Mar-16,New Jersey,0,5
+9-Mar-16,Pennsylvania,6,2
+8-Mar-16,Texas,2,3
+7-Mar-16,Louisiana,0,4
+7-Mar-16,Kansas,5,0
+6-Mar-16,Massachusetts,1,6
+6-Mar-16,Georgia,0,4
+6-Mar-16,California,1,8
+5-Mar-16,Kansas,0,4
+4-Mar-16,Ohio,1,3
+28-Feb-16,California,1,3
+28-Feb-16,Michigan,0,5
+27-Feb-16,Virginia,2,2
+26-Feb-16,Washington,5,0
+25-Feb-16,Kansas,4,14
+23-Feb-16,Arizona,5,0
+23-Feb-16,Florida,0,4
+21-Feb-16,Texas,0,5
+21-Feb-16,Missouri,1,3
+20-Feb-16,Florida,1,3
+20-Feb-16,Michigan,6,2
+20-Feb-16,Alabama,1,3
+20-Feb-16,Florida,0,4
+20-Feb-16,Mississippi,2,3
+19-Feb-16,Missouri,4,0
+19-Feb-16,California,1,3
+14-Feb-16,Texas,1,3
+14-Feb-16,Alabama,0,5
+13-Feb-16,Louisiana,0,4
+7-Feb-16,Mississippi,2,4
+7-Feb-16,Florida,2,10
+7-Feb-16,New York,1,7
+7-Feb-16,Illinois,0,4
+6-Feb-16,California,1,3
+6-Feb-16,Florida,0,4
+6-Feb-16,Florida,2,6
+3-Feb-16,District of Columbia,0,4
+30-Jan-16,Arizona,3,5
+27-Jan-16,Virginia,6,0
+26-Jan-16,Washington,2,3
+25-Jan-16,California,1,4
+23-Jan-16,California,2,2
+17-Jan-16,Virginia,1,3
+11-Jan-16,Delaware,1,4
+8-Jan-16,District of Columbia,0,4
+8-Jan-16,Illinois,1,4
+7-Jan-16,Tennessee,1,3
+6-Jan-16,Florida,3,1
