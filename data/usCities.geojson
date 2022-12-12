@@ -1,0 +1,115 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.007,40.714 ]
+    },
+    "properties": {
+    "City":"New York",
+    "Population":8804190
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.243,34.052 ]
+    },
+    "properties": {
+    "City":"Los Angeles",
+    "Population":3898747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.628,41.882 ]
+    },
+    "properties": {
+    "City":"Chicago",
+    "Population":2746388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.363,29.76 ]
+    },
+    "properties": {
+    "City":"Houston",
+    "Population":2304580
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.074,33.448 ]
+    },
+    "properties": {
+    "City":"Phoenix",
+    "Population":1608139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.164,39.952 ]
+    },
+    "properties": {
+    "City":"Philadelphia",
+    "Population":1603797
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.49,29.423 ]
+    },
+    "properties": {
+    "City":"San Antonio",
+    "Population":1434625
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.165,32.716 ]
+    },
+    "properties": {
+    "City":"San Diego",
+    "Population":1386932
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.797,32.781 ]
+    },
+    "properties": {
+    "City":"Dallas",
+    "Population":1304379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.891,37.336 ]
+    },
+    "properties": {
+    "City":"San Jose",
+    "Population":1013240
+    }
+  }
+]
+}
