@@ -228,9 +228,12 @@ function createMap() {
   let legendLinear = d3.legendColor()
     .scale(colorScale)
     .shapeWidth(40)
+    .shapeHeight(20)
+    .shapePadding(6)
     .orient('vertical')
     .cells(6)
-    .title("Legend")
+    .title("Number of mass shootings per 1 million people")
+    .titleWidth(180)
     .labels(["0 < 1", "1 < 2", "2 < 4", "4 < 8", "8 < 16", "16 < 24"]);
 
   svg.select(".legend")
