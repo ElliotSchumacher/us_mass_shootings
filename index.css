@@ -85,7 +85,7 @@ select {
 }
 
 #info {
-  background-color: pink;
+  /* background-color: pink; */
   grid-column: 1 / 1;
   grid-row: 2 / 2;
   overflow-y: scroll;
@@ -97,7 +97,7 @@ select {
 }
 
 #map {
-  background-color: blue;
+  /* background-color: blue; */
   grid-column: 1 / 3;
   grid-row: 2 / 4;
 }
