@@ -8,12 +8,23 @@
   <script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
   <link rel="stylesheet" href="index.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.js" type=""></script>
   <script src="index.js"></script>
+
 </head>
 
 <body>
   <header>
     <h1>Mass Shooting in the United States</h1>
+    <select name="year" id="year-select">
+      <option value="21">2021</option>
+      <option value="20">2020</option>
+      <option value="19">2019</option>
+      <option value="18">2018</option>
+      <option value="17">2017</option>
+      <option value="16">2016</option>
+    </select>
+
   </header>
   <div id="info" class="panel hidden">
     <h2>State Name</h2>
@@ -63,11 +74,14 @@
     </div>
   </div>
   <div id="map" class="panel">
-
-  </div>
-  <!-- Sparkchart -->
-  <div id="chart" class="panel hidden">
     
+  </div>
+  <!-- Explanation -->
+  <div id="explanation" class="panel hidden"></div>
+  <!-- Sparkchart -->
+  <!-- <canvas id="line-chart" class="hidden"></canvas> -->
+  <div id="chart" class="panel hidden">
+    <canvas id="line-chart"></canvas>
   </div>
 </body>
 </html>

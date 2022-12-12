@@ -2,27 +2,42 @@
 
 window.addEventListener("load", init);
 
+let currentYear;
 let inMapView;
-let stateData, stateList, shootingData, populationData;
+let lineChart;
+let stateData, stateList, shootingData, populationData, highestShootingRates;
 
 async function init() {
+  currentYear = "21";
   inMapView = true;
-  [stateData, stateList, shootingData, populationData] = await Promise.all([d3.json("./data/usState.geojson"), 
+  [stateData, stateList, shootingData, populationData, highestShootingRates] = await Promise.all([d3.json("./data/usState.geojson"), 
     d3.csv("./data/mass_shootings_shrunk.csv"),
     d3.csv("./data/population.csv")])
     .then(processData)
     .catch(console.error)
   
-    await createMap([stateData, stateList, shootingData, populationData]);
+  await createMap();
+  let yearSelect = document.querySelector("select");
+  yearSelect.addEventListener("change", updateYear)
 }
+
+async function updateYear(event) {
+  currentYear = event.target.value;
+  await createMap();
+}
+
+// function openReferenceWindow() {
+//   window.open("./test.html", "test")
+// }
 
 /**
  * Populates the info panel with state information and the state's mass shooting statistics.
  * @param {Object} clickedState -  The GeoJSON feature of the state to show info on.
  */
+async function showDetails(clickedState) {
   // Swap to detail view if not aready there
   if (inMapView) {
-    swapViews();
+    await swapViews();
     inMapView = !inMapView;
   }
   let state = clickedState.properties.stateName;
@@ -32,7 +47,7 @@ async function init() {
   stateLabel.innerHTML = clickedState.properties.name;
   
   // Populate statistics in info panel
-  let {totalIncidents, totalKilled, totalInjuries, population} = calculateStatistics("21", state); 
+  let {totalIncidents, totalKilled, totalInjuries, population} = calculateStatistics(currentYear, state); 
   document.getElementById("incident-rate").innerHTML = ((totalIncidents / population) * 1000000).toFixed(1); // rate per million
   document.getElementById("incident-total").innerHTML = totalIncidents;
   document.getElementById("fatalities-rate").innerHTML = ((totalKilled / population) * 1000000).toFixed(1); // rate per million
@@ -40,6 +55,24 @@ async function init() {
   document.getElementById("injuries-rate").innerHTML = ((totalInjuries / population) * 1000000).toFixed(1); // rate per million
   document.getElementById("injuries-total").innerHTML = totalInjuries;
   document.getElementById("population-total").innerHTML = parseInt(population).toLocaleString();
+
+  // Create chart
+  // Set chart's canvas width and height
+  let map = document.getElementById("map"); // 
+  let explanation = document.getElementById("explanation");
+  let canvas = document.getElementById("line-chart");
+  let chartWrapper = document.getElementById("chart");
+  let chartWidth = getWidth(map);
+  let chartHeight = getHeight(explanation);
+  console.log("chart width", getWidth(map));
+  console.log("chart height", getHeight(explanation));
+  chartWrapper.width = chartWidth;
+  chartWrapper.height = chartHeight;
+  // canvas.width = chartWidth;
+  // canvas.height = chartHeight;
+
+  // draw the chart
+  drawChart(state, clickedState.properties.name);
 }
 
 /**
@@ -61,32 +94,38 @@ function calculateStatistics(year, state) {
 }
 
 /**
- * Swaps between the map and detail view.
+ * Swaps between the map and detail view and reloads the map.
  */
-function swapViews() {
+async function swapViews() {
   document.getElementById("info").classList.toggle("hidden");
+  // document.getElementById("line-chart").classList.toggle("hidden");
+  document.getElementById("map").classList.toggle("shrink");
+  document.getElementById("explanation").classList.toggle("hidden");
   document.getElementById("chart").classList.toggle("hidden");
-  document.getElementById("map").classList.toggle("shrink")
+  let map = document.getElementById("map");
+  console.log("map width", getWidth(map));
+  console.log("map height", getHeight(map));
+  await createMap();
 }
 
 /**
  * Calculates and returns width of the map container.
+ * @param {DOM Element} element - The HTML element to get the width of.
  * @returns {int} - the width of the map container contents
  */
-function getMapWidth() {
-  let map = document.getElementById("map");
-  let styles = getComputedStyle(map)
-  return Math.floor(map.clientWidth - parseFloat(styles.paddingLeft) - parseFloat(styles.paddingRight));
+function getWidth(element) {
+  let styles = getComputedStyle(element)
+  return Math.floor(element.clientWidth - parseFloat(styles.paddingLeft) - parseFloat(styles.paddingRight));
 }
 
 /**
  * Calculates and return the height of the map container.
+ * @param {DOM Element} element - The HTML element to get the height of.
  * @returns {int} - the height of the map contain contents
  */
-function getMapHeight() {
-  let map = document.getElementById("map");
-  let styles = getComputedStyle(map)
-  return Math.floor(map.clientHeight - parseFloat(styles.paddingTop) - parseFloat(styles.paddingBottom));
+function getHeight(element) {
+  let styles = getComputedStyle(element)
+  return Math.floor(element.clientHeight - parseFloat(styles.paddingTop) - parseFloat(styles.paddingBottom));
 }
 
 function processData([stateData, shootingData, populationData]) {
@@ -119,14 +158,22 @@ function processData([stateData, shootingData, populationData]) {
 
   // Create list of states
   let stateList = stateData.features.map((d) => { return d.properties.stateName.toLowerCase() })
+
+  // Find max shooting rate per year
+  // let highestShootingRates = {}
+  // for (let year of ["16","17", "18", "19", "20", "21"]) {
+  //   highestShootingRates[year] = 0;
+  //   for (let state of stateList) {
+  //     let rate = getShootingRate(year, state, shootingByYear, processedPopulationData);
+  //     highestShootingRates[year] = Math.max(highestShootingRates[year], rate)
+  //   }
+  // }
+  // console.log("highestShootingRates", highestShootingRates);
+  // return [stateData, stateList, shootingByYear, processedPopulationData, highestShootingRates];
   return [stateData, stateList, shootingByYear, processedPopulationData];
 }
 
-function createMap([stateData, stateList, shootingData, populationData]) {
-  for (let state of stateList) {
-    getShootingRate("21", state, shootingData, populationData);
-  }
-
+function createMap() {
   // Remove existing SVG so that new map can be drawn
   let preexistingSVG = document.querySelector("svg");
   if (preexistingSVG) {
@@ -134,14 +181,26 @@ function createMap([stateData, stateList, shootingData, populationData]) {
   }
 
   // Setup map properties
-  let mapHeight = getMapHeight();
-  let mapWidth = getMapWidth();
+  let map = document.getElementById("map");
+  let mapHeight = getHeight(map);
+  let mapWidth = getWidth(map);
   let projection = d3.geoAlbersUsa();
   let path = d3.geoPath().projection(projection);
 
-  let colorScale = d3.scaleLinear()
-    .domain([0, 1, 2, 4, 8, 24])
-    .range(["#fee5d9","#fcbba1","#fc9272","#fb6a4a","#de2d26","#a50f15"]);
+  projection.scale(1).translate([0, 0]);
+  let b = path.bounds(stateData);
+  var s = .9 / Math.max((b[1][0] - b[0][0]) / mapWidth, (b[1][1] -
+    b[0][1]) / mapHeight);
+  var t = [(mapWidth - s * (b[1][0] + b[0][0])) / 2, (mapHeight - s *
+    (b[1][1] + b[0][1])) / 2];
+  projection.scale(s).translate(t);
+
+  let colorScale = d3.scaleThreshold() //scaleQuantile
+    .domain([1, 2, 4, 8, 16, 24])
+    // .range(d3.schemeOrRd[6])
+    // .range(["#fef0d9","#b30000"]);
+    // .range(["#fef0d9","#fdd49e","#fdbb84","#fc8d59","#e34a33","#b30000"]);
+    .range(["#ffffff","#fef0d9","#fdcc8a","#fc8d59","#e34a33","#b30000"]);
 
   let svg = d3.select("#map")
     .append("svg")
@@ -155,10 +214,26 @@ function createMap([stateData, stateList, shootingData, populationData]) {
       .attr("d", path)
       .style("fill", function (d) {
         let state = d.properties.stateName;
-        return colorScale(getShootingRate("21", state, shootingData, populationData));
+        return colorScale(getShootingRate(currentYear, state, shootingData, populationData));
       })
       .style("stroke", "#000")
       .on("click", showDetails)
+
+  // add a legend
+  svg.append("g")
+    .attr("class", "legend")
+    .attr("transform", "translate(20, 40)");
+
+  let legendLinear = d3.legendColor()
+    .scale(colorScale)
+    .shapeWidth(40)
+    .orient('vertical')
+    .cells(6)
+    .title("Legend")
+    .labels(["0 < 1", "1 < 2", "2 < 4", "4 < 8", "8 < 16", "16 < 24"]);
+
+  svg.select(".legend")
+    .call(legendLinear);
 }
 
 function getShootingRate(year, state, shootingData, populationData) {
@@ -168,5 +243,64 @@ function getShootingRate(year, state, shootingData, populationData) {
   }
   let population = populationData[state]["POPESTIMATE20" + year];
   let shootingRate = (shootingCount / population) * 1000000; // shootings per 1,000,000 people
+  // console.log(`${state}: count: ${shootingCount} population: ${population} rate: ${shootingRate}`);
   return shootingRate;
+}
+
+function drawChart(state, stateUpper) {
+  if (lineChart) {
+    lineChart.destroy();
+  }
+
+  let years = Object.keys(shootingData);
+  let formattedYears = years.map(item => `20${item}`);
+  let statistics = {
+    "incidents": [],
+    "deaths": [],
+    "injuries": []
+  }
+  for (let year of years) {
+    console.log(year);
+    let {totalIncidents, totalKilled, totalInjuries, population} = calculateStatistics(year, state);
+    statistics.incidents.push(totalIncidents);
+    statistics.deaths.push(totalKilled);
+    statistics.injuries.push(totalInjuries);
+  }
+  console.log(statistics);
+
+  lineChart = new Chart(document.getElementById("line-chart"), {
+    type: "line",
+    data: {
+      labels: formattedYears,
+      datasets: [{
+        data: statistics.incidents,
+        label: "incidents",
+        borderColor: "#FFFFFF",
+        fill: false
+      },
+      {
+        data: statistics.deaths,
+        label: "fatalities",
+        borderColor: "#000000",
+        fill: false
+      },
+      {
+        data: statistics.injuries,
+        label: "injuries",
+        borderColor: "#FB0000",
+        fill: false
+      },
+    ]
+    },
+    options: {
+      plugins: {
+        title: {
+          display: true,
+          text: `Mass shooting statistics from 2016 to 2021 in ${stateUpper} state`
+        },
+      },
+      responsive: true,
+      maintainAspectRatio: false
+    }
+  });
 }
